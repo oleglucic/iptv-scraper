@@ -1,0 +1,2793 @@
+<?xml version="1.0" ?>
+<tv>
+  <channel id="b2aff65c1fd0bfbe1ab46f372310296b">
+    <display-name>Red Bull Cliff Diving World Series Stop 4: Downpatrick Head, Ireland 2021</display-name>
+  </channel>
+  <channel id="f88c06100a9fea4f7d2629f7dd85b58b">
+    <display-name>Hell's Kitchen Season 12, Episode 14</display-name>
+  </channel>
+  <channel id="c41da8d7917a4a9f682fcadb4dfff297">
+    <display-name>The Price Is Right</display-name>
+  </channel>
+  <channel id="270ffa189f674923c62149bf8c630421">
+    <display-name>Crankworx World Tour 106</display-name>
+  </channel>
+  <channel id="2fdf9d105a9fcd73c25e8dcc4abc13cd">
+    <display-name>Pirates Classics Pirates vs Expos</display-name>
+  </channel>
+  <channel id="9c3075f08656ab157633e0b38f7b8d89">
+    <display-name>RED BULL: THE CLIP SHOW 107</display-name>
+  </channel>
+  <channel id="4c0b39cf0d07c178172e4861fb763ded">
+    <display-name>Big Xii Pro Day Live</display-name>
+  </channel>
+  <channel id="d3583140870e9be0de2e7c797cea7172">
+    <display-name>Beyond the Gates Season 1, Episode 18</display-name>
+  </channel>
+  <channel id="75eb0a8155d6e8ce06994bc1af05e7ae">
+    <display-name>Pictionary Season 3, Episode 113</display-name>
+  </channel>
+  <channel id="faf29e498f53a1dc5410449d66f65268">
+    <display-name>The Kelly Clarkson Show Season 6, Episode 113</display-name>
+  </channel>
+  <channel id="e89d200d4c3a2e5e72f24bed444993d9">
+    <display-name>General Hospital Season 62, Episode 132</display-name>
+  </channel>
+  <channel id="f5ea9571e882de388737c1a7f09d272d">
+    <display-name>Tal para cual Season 2, Episode 73</display-name>
+  </channel>
+  <channel id="9517d3eb55802b361295970b87e1828a">
+    <display-name>The Thundermans: Undercover Season 1, Episode 11</display-name>
+  </channel>
+  <channel id="77b64a268bee9842c7ec9016a7dc8a8e">
+    <display-name>Expedition X Season 9, Episode 9</display-name>
+  </channel>
+  <channel id="1c1529de27537ec9460ec16b644f1f54">
+    <display-name>Jeopardy! Season 41, Episode 138</display-name>
+  </channel>
+  <channel id="402a94cf921652de79944f678e1b12d8">
+    <display-name>The Challenge All Stars: Rivals Season 5, Episode 8</display-name>
+  </channel>
+  <channel id="da645c4ab818241fa55936c3540879ae">
+    <display-name>Beyond the Gates Season 1, Episode 8</display-name>
+  </channel>
+  <channel id="bb002f774d35524de71d26da760ff387">
+    <display-name>A Body in the Snow: The Trial of Karen Read Season 1, Episode 4</display-name>
+  </channel>
+  <channel id="f68d44a4814226686747d817e428d55f">
+    <display-name>American Ninja Warrior National Finals 3</display-name>
+  </channel>
+  <channel id="8f65edf7716537d631e4db3406446a9a">
+    <display-name>Dateline: Secrets Uncovered Season 14, Episode 19</display-name>
+  </channel>
+  <channel id="93b81d2967eedf3ac8aa13135ac18e27">
+    <display-name>Night Court Season 2, Episode 8</display-name>
+  </channel>
+  <channel id="e5d099c74ad0feeef44fb7731399e656">
+    <display-name>Married to Real Estate Season 4, Episode 2</display-name>
+  </channel>
+  <channel id="2d349c57e46ad9c77f7e4953e030f40f">
+    <display-name>Papás por conveniencia Season 1, Episode 42</display-name>
+  </channel>
+  <channel id="440c1a21c78f2c94fc74cc86da168346">
+    <display-name>Shifting Gears Season 1, Episode 10 • Finale</display-name>
+  </channel>
+  <channel id="a3f226b03856accd0978d8fbbf8a250f">
+    <display-name>Opry 100: A Live Celebration Live</display-name>
+  </channel>
+  <channel id="f93e6ce9ad0d1757bfee0f4e06dad5b7">
+    <display-name>Survivor Season 48, Episode 4</display-name>
+  </channel>
+  <channel id="83d6d20e4b2da8cdb714855f90f6a798">
+    <display-name>The Masked Singer Season 13, Episode 6</display-name>
+  </channel>
+  <channel id="7d5959e73a4af52e2b6031ed692157ae">
+    <display-name>Wild Cards Season 2, Episode 7</display-name>
+  </channel>
+  <channel id="06f4f0dd3c63462db39ad4310548db2b">
+    <display-name>NCAA March Madness 360</display-name>
+  </channel>
+  <channel id="dda9201fe4e6dbc31a57bf8e561658e4">
+    <display-name>Bitchin' Rides New</display-name>
+  </channel>
+  <channel id="8bb118ed57659982d560c3bbec7241b0">
+    <display-name>To Catch a Smuggler Season 7</display-name>
+  </channel>
+  <channel id="bf1579f6b7ca0ff450cb90995a8aa239">
+    <display-name>Pawn Stars Season 23</display-name>
+  </channel>
+  <channel id="453556e3b85fd62af4b926af967cf187">
+    <display-name>Stadium Lockup Season 1, Episode 1 • Premiere</display-name>
+  </channel>
+  <channel id="9c54f9510e15844c5e4aada7ec9bd446">
+    <display-name>Summer House Season 9, Episode 6</display-name>
+  </channel>
+  <channel id="8d49fc74aac306b591d17ede7665a3bb">
+    <display-name>Izzy Does It Season 1, Episode 7</display-name>
+  </channel>
+  <channel id="00bad9531ce61f3fa03b1f221646b4ed">
+    <display-name>The Floor Season 3, Episode 7</display-name>
+  </channel>
+  <channel id="26e8165f806689b740cd127b7081d741">
+    <display-name>Good Cop/Bad Cop Season 1, Episode 5</display-name>
+  </channel>
+  <channel id="5e8aa3fdc2b94eabdf6d43a04977d9d9">
+    <display-name>Las hijas de la señora García Season 1, Episode 46</display-name>
+  </channel>
+  <channel id="26355e0ce2866d06f0d11c3868f8479c">
+    <display-name>For My Man Season 8, Episode 24</display-name>
+  </channel>
+  <channel id="6942231cea67e161db073a3d79778efb">
+    <display-name>All the Queen's Men Season 3, Episode 1 • Premiere</display-name>
+  </channel>
+  <channel id="4cf8f1427d084d040e0022284a3a706f">
+    <display-name>The Amazing Race Season 37, Episode 3</display-name>
+  </channel>
+  <channel id="e39dbd1de07a5a5b985ac56447f50906">
+    <display-name>Handguns 5 Keys to Better Shooting</display-name>
+  </channel>
+  <channel id="482f174c8da06696b61ab4070141c280">
+    <display-name>American Ninja Warrior Season 13, Episode 13</display-name>
+  </channel>
+  <channel id="e7fcf69a74eadcb37b0264f016afb11d">
+    <display-name>Booked: First Day In Season 3, Episode 1 • Premiere</display-name>
+  </channel>
+  <channel id="19de15531dc9a474505a8e8d218eac5b">
+    <display-name>House Hunters Season 258, Episode 4</display-name>
+  </channel>
+  <channel id="6351c9d14aedc08f99ab6a8465d05842">
+    <display-name>Poker Go Tour Championship Final 2024 Table- Part 1</display-name>
+  </channel>
+  <channel id="becf38c60ea4451a7a5c47ddcd9e9843">
+    <display-name>Zatima Season 3, Episode 4</display-name>
+  </channel>
+  <channel id="e4a20e4e538884ed95fad336729d128d">
+    <display-name>Ridiculousness Sterling and Lolo Wood CXI Season 42</display-name>
+  </channel>
+  <channel id="1307558a4c0b975aea378efb9e0aae9e">
+    <display-name>WOW - Women Of Wrestling Season 5, Episode 27</display-name>
+  </channel>
+  <channel id="67df4ce8bddb9bc35b156d7b77c2ff8e">
+    <display-name>U19 Euro Qualifying : Portugal U19 vs Türkiye U19</display-name>
+  </channel>
+  <channel id="68d98b8b8201a49bd7a895f187d217c5">
+    <display-name>CE U19 2024 - Qualifiers - Gr.2 : Montenegro U19 vs Slovakia U19</display-name>
+  </channel>
+  <channel id="adbf9b7753a6a461cacae5f740674f81">
+    <display-name>UU17 European Championship : Ukraine U17 vs Croatia U17</display-name>
+  </channel>
+  <channel id="e56261a45bdb3dba5664f225b31bb2d6">
+    <display-name>India I-League : Dempo vs Churchill Brothers</display-name>
+  </channel>
+  <channel id="11b0a4e01819ffe8c94e98c444f13f75">
+    <display-name>Portugal - League Revelacao U23 - Gr.Retrogradare : Leixoes U23 vs Mafra U23</display-name>
+  </channel>
+  <channel id="c8f5e48576a2834375c192046cd5c295">
+    <display-name>Portugal - League Revelacao U23 - Gr.Championship : Vizela U23 vs Torreense U23</display-name>
+  </channel>
+  <channel id="94d79352bf10dab0ce1608072a8407f8">
+    <display-name>International Friendly : Vietnam vs Cambodia</display-name>
+  </channel>
+  <channel id="ea2c439763414108d009c7dd40ab9274">
+    <display-name>U19 UEFA European Championship : Netherlands vs. Croatia</display-name>
+  </channel>
+  <channel id="b41383e7683ef8dae85826b65bb10951">
+    <display-name>India I-League : Sreenidi Deccan vs Inter Kashi</display-name>
+  </channel>
+  <channel id="6efa6ea4302a059692636c328f3eae5f">
+    <display-name>Europe - U19 Euro Qualifying : Germany U19 vs Slovenia U19</display-name>
+  </channel>
+  <channel id="101aa55f7c37293a470c4c1bb59e0182">
+    <display-name>Europe - U19 Euro Qualifying : Poland U19 vs Georgia U19</display-name>
+  </channel>
+  <channel id="a2da8eec54f3817f442c942b3338e44f">
+    <display-name>U19 Euro Qualifying : Israel U19 vs Serbia U19</display-name>
+  </channel>
+  <channel id="cb15af6187eee19c175d4585e51b8222">
+    <display-name>World Cup Qualifying : Liberia vs Tunisia</display-name>
+  </channel>
+  <channel id="9e27bc1444dad1c4aa13a356a4f36296">
+    <display-name>World Cup Qualifying : Central African Republic vs Madagascar</display-name>
+  </channel>
+  <channel id="0eb9389a04e0567ec9f586e887ef3435">
+    <display-name>World Cup Qualifying : Eswatini vs Cameroon</display-name>
+  </channel>
+  <channel id="1384434926f01c518342d78142f080c5">
+    <display-name>WAFF Championship U23 - Gr.B : Bahrain U23 vs EAU U23</display-name>
+  </channel>
+  <channel id="1b9f22f575e1cf277d92a38867482f42">
+    <display-name>Interclub friendly : Schalke vs Groningen</display-name>
+  </channel>
+  <channel id="c7500e5a4e7fd3007913dcb1f52fdf16">
+    <display-name>World - Friendly : Russia vs Grenada</display-name>
+  </channel>
+  <channel id="668f53e44981f85b414235f37fe3bf6c">
+    <display-name>UEFA Women's Champions League : Wolfsburg vs Barcelona</display-name>
+  </channel>
+  <channel id="d4505952982644ab7358a9685ebdd12a">
+    <display-name>Brazil - Paulista - Serie A2 - Playoff : Primavera SP vs Santo Andre SP</display-name>
+  </channel>
+  <channel id="099801e5783b8842f8db738b8b30fd8d">
+    <display-name>Club Friendlies : Eintracht Frankfurt vs. Sonnenhof Großaspach</display-name>
+  </channel>
+  <channel id="9642fb443b32efcaeb5e7cda07a8e462">
+    <display-name>Copa Argentina : Aldosivi vs Gimnasia y Tiro</display-name>
+  </channel>
+  <channel id="d262dbfb5a0ce2bff539722b48c6b8bb">
+    <display-name>Europe - U19 Euro Qualifying : Hungary U19 vs Austria U19</display-name>
+  </channel>
+  <channel id="1c8c4e6f2e6ef607cc51f5b98f519cee">
+    <display-name>Saudi Arabia - SAFF Women's Cup : Al Qadsiah vs Al Ahli</display-name>
+  </channel>
+  <channel id="1aefd079235a78214083c105ebe0b118">
+    <display-name>Campeonato Brasileiro De Futebol Sub-20 : Vasco vs Cruzeiro</display-name>
+  </channel>
+  <channel id="c93d6bf7b6d7bae3eb1f27fd8ff01cd0">
+    <display-name>UEFA Women's Champions League : Manchester City vs Chelsea FC</display-name>
+  </channel>
+  <channel id="a7755e5da7bf316e28ba7e199b64edef">
+    <display-name>Ecuador - Serie B : Cumbaya FC vs Vinotinto</display-name>
+  </channel>
+  <channel id="abdb8b4f9a93a69e206d9d17ebd0c147">
+    <display-name>Copa Argentina : Talleres Córdoba vs Deportivo Armenio</display-name>
+  </channel>
+  <channel id="ee395af8b0b44d6d2e23e07f744eaf66">
+    <display-name>Copa Do Nordeste : Csa-AL vs Bahia</display-name>
+  </channel>
+  <channel id="aa0724c4104691a2bc4d9ed5546acb98">
+    <display-name>Brazil - Paulista - Serie A2 - Playoff : Capivariano vs XV de Piracicaba</display-name>
+  </channel>
+  <channel id="eab4cb5c4f5a695c78c17dc07b0f11fe">
+    <display-name>Brazil - Paulista - Serie A2 - Playoff : Ituano vs Ferroviaria SP</display-name>
+  </channel>
+  <channel id="05b91502ccd4841db8893b2d9288a4ff">
+    <display-name>Brazil - Paranaense - Division I - Playoff : Athletico PR vs Maringa</display-name>
+  </channel>
+  <channel id="2dfdc0596e2bf80469d8399eb5e544a4">
+    <display-name>Brazil - Paulista - Serie A2 - Playoff : Taubate vs Sao Jose SP</display-name>
+  </channel>
+  <channel id="5f6455ebd8dc329b827a3b73682ed7a2">
+    <display-name>Colombia - Primera A : Rionegro Águilas vs América de Cali</display-name>
+  </channel>
+  <channel id="777104b334a68bf0667c65a26ec5d0e1">
+    <display-name>USL Super League Soccer : Dallas Trinity FC vs Brooklyn FC</display-name>
+  </channel>
+  <channel id="23801a5b353b8e14380b9c3c9f358266">
+    <display-name>Colombia - Primera A - Apertura : Independiente Santa Fe vs Atletico Bucaramanga</display-name>
+  </channel>
+  <channel id="2d9c3b582c49a199a9ce47d365efa966">
+    <display-name>Ecuador - Serie B : Gualaceo vs Chacaritas</display-name>
+  </channel>
+  <channel id="c7bae5c4000c418fb36a1a35973d2735">
+    <display-name>Copa Argentina : River Plate vs Ciudad de Bolívar</display-name>
+  </channel>
+  <channel id="4e3bcd1ea52d7746dfb743d57b9fecca">
+    <display-name>Copa do Nordeste : Vitória vs Sport Recife</display-name>
+  </channel>
+  <channel id="a38059a9cbe00f216d696ab627572c5b">
+    <display-name>Mexico - League de Expansion MX - Clausura : CD Tapatio vs Atlante</display-name>
+  </channel>
+  <channel id="708ddfec306fc622694cf11693853fd6">
+    <display-name>Colombia - Primera A : Atlético Nacional vs Deportes Tolima</display-name>
+  </channel>
+  <channel id="8da64f0d10146352d7bba6fc15f491c1">
+    <display-name>Costa Rica - League de Ascenso - Clausura - Gr.1 : AD Municipal Greece vs Quepos Cambute</display-name>
+  </channel>
+  <channel id="e305c0e492ac5bbac4a66ceefe9eeb3f">
+    <display-name>ATP and WTA 1000 Miami</display-name>
+  </channel>
+  <channel id="dc7dc02ca5df61bd74594b595e60adea">
+    <display-name>UTR (M) - Dubai (EAU) : Alexander Zgirovsky vs Igor Kolaric</display-name>
+  </channel>
+  <channel id="148582fece621e04f261b4b581202700">
+    <display-name>UTR (M) - Dubai (EAU) : Teodor Giusca vs Stijn Pel</display-name>
+  </channel>
+  <channel id="0400ec122ef564c224754b12d64bddcd">
+    <display-name>UTR (M) - Dubai (EAU) : Joris Moret vs Valentin Vanta</display-name>
+  </channel>
+  <channel id="f832a80bf10c01d1449e26cc78a7d519">
+    <display-name>UTR (M) - Dubai (EAU) : Yizhou Liu vs Janos Fekete</display-name>
+  </channel>
+  <channel id="d64fd8c920d44c3e75e545057c382893">
+    <display-name>UTR (M) - Dubai (EAU) : Viktor Jovic vs Stepan Baum</display-name>
+  </channel>
+  <channel id="4e1aa36bbf825b2f9258108acc396a83">
+    <display-name>UTR (M) - Dubai (EAU) : Freddie Ridout vs Michalis Sakellaridis</display-name>
+  </channel>
+  <channel id="b91d34efe51b5e776027aa553f6cc323">
+    <display-name>UTR (M) - Dubai (EAU) : Samuil Konov vs Ronetto Van Tilburg</display-name>
+  </channel>
+  <channel id="cd7ca84b3a28633cac4627b96e222f4c">
+    <display-name>UTR (M) - Dubai (EAU) : David C.Carteputreda vs Daniel Siniakov</display-name>
+  </channel>
+  <channel id="bd7b670d5641757c22baabe011f13838">
+    <display-name>WTA 125 - Antalya (TUR) : Clara Burel vs Nuria Parrizas Diaz</display-name>
+  </channel>
+  <channel id="d76a573966efef334e9cea3a8549e071">
+    <display-name>WTA 125 - Antalya (TUR) : Elena Pridankina vs Darja Semenistaja</display-name>
+  </channel>
+  <channel id="b2577d9568c3928c5545aeb4059ea605">
+    <display-name>WTA 125 - Antalya (TUR) : Maja Chwalinska vs Zarina Diyas</display-name>
+  </channel>
+  <channel id="c7b4ed89b0fc093fbec9afa9af71ec5d">
+    <display-name>WTA 125 - Antalya (TUR) : Tamara Zidansek vs Noma Akugue Noha</display-name>
+  </channel>
+  <channel id="d39def43dd56269423a680a4e482286e">
+    <display-name>Challenger - Murcia (SPA) - Double : A.Chandrasekar/D.Vega Hernandez vs I.Cervantes/S.M.Gornes</display-name>
+  </channel>
+  <channel id="1d3028786787c3edba11e7466c565ad4">
+    <display-name>Challenger - Murcia (SPA) - Double : A.Donski/B.Pujol Navarro vs V.V.Cornea/A.Mies</display-name>
+  </channel>
+  <channel id="0477a9941299807382eb6c0edd84bdba">
+    <display-name>Challenger - Zadar (CRO) - Double : A.Merino/C.Negritu vs D.Svrcina/M.Vrbensky</display-name>
+  </channel>
+  <channel id="ff2177c8ea99638562853c32fc1c0864">
+    <display-name>Challenger - Murcia (SPA) : Albert Ramos Vinolas vs Bernabe Zapata Miralles</display-name>
+  </channel>
+  <channel id="8efac60867df9e940ee65dbe3f1a3aba">
+    <display-name>Challenger - Murcia (SPA) : Andrea Pellegrino vs Jesper de Jong</display-name>
+  </channel>
+  <channel id="bc18df49b94558d6df3b4cafc028ca0f">
+    <display-name>Challenger - Zadar (CRO) : Francesco Maestrelli vs Enrico Dalla Valle</display-name>
+  </channel>
+  <channel id="9f1aff9f1f78b6754251332f062f4874">
+    <display-name>Challenger - Murcia (SPA) - Double : G.Jacq/O.Luz vs B.Hassan/A.Shelbayh</display-name>
+  </channel>
+  <channel id="64e432aa7cf764aa4bd6ba257b861838">
+    <display-name>Challenger - Murcia (SPA) - Double : J.Nedunchezhiyan/V.Prashanth vs J.Ingildsen/D.Stevenson</display-name>
+  </channel>
+  <channel id="f388584c212b8911892ca201bd93c6a4">
+    <display-name>Challenger - Murcia (SPA) : Kyrian Jacquet vs Nicolas Alvarez Varona</display-name>
+  </channel>
+  <channel id="d5ef7de8ecd8453bf047ceaae4d8ddf6">
+    <display-name>Challenger - Murcia (SPA) : Valentin Vacherot vs Raul Brancaccio</display-name>
+  </channel>
+  <channel id="bc9e6f84b4919c103f233170017f2a31">
+    <display-name>Challenger - Zadar (CRO) : Zsombor Piros vs Jozef Kovalik</display-name>
+  </channel>
+  <channel id="b88e20c22844c59647e49f476d461b45">
+    <display-name>WTA 125 - Antalya (TUR) : Anastasia Zakharova vs Ada Kumru</display-name>
+  </channel>
+  <channel id="4f0ad129a613a3a2e5f385d3592caac4">
+    <display-name>WTA 125 - Antalya (TUR) : Sijia Wei vs Leyre Romero Gormaz</display-name>
+  </channel>
+  <channel id="78cbec9b7c1dc4128f8bc0784fdc6343">
+    <display-name>WTA 125 - Antalya (TUR) : Veronika Erjavec vs Diane Parry</display-name>
+  </channel>
+  <channel id="14f24fd39f0ed4731b46f7403531dd81">
+    <display-name>Challenger - Zadar (CRO) : Damir Dzumhur vs Zdenek Kolar</display-name>
+  </channel>
+  <channel id="81d39677445697d9474e776da43e05ca">
+    <display-name>Challenger - Zadar (CRO) : Nerman Fatic vs Carlos Sanchez Jover</display-name>
+  </channel>
+  <channel id="a4f55451c151b249836a4fbd7b9ffee3">
+    <display-name>Challenger - Murcia (SPA) : Daniel Rincon vs Gabriele Pennaforti</display-name>
+  </channel>
+  <channel id="f128711f3b4b3679ede88d1dce3f6b12">
+    <display-name>Challenger - Murcia (SPA) : Denis Yevseyev vs Justin Engel</display-name>
+  </channel>
+  <channel id="330a4a0bb1eb874d131bde0d3caf6ea1">
+    <display-name>Challenger - Murcia (SPA) : Pablo Llamas Ruiz vs Sumit Nagal</display-name>
+  </channel>
+  <channel id="c2d8737403acd4a28fa59e67e6041e14">
+    <display-name>Challenger - Murcia (SPA) : Elmer Moller vs Miguel Damas</display-name>
+  </channel>
+  <channel id="e2dad32739229a912a82989187b80026">
+    <display-name>Challenger - Zadar (CRO) - Double : M.Cecchinato/E.Dalla Valle vs F.Agamenone/L.Pavlovic</display-name>
+  </channel>
+  <channel id="8c7980dd5e12567ebbdb9e00c1f0e60d">
+    <display-name>Challenger - Zadar (CRO) - Double : V.Kopriva/D.Michalski vs M.A.Jecan/F.C.Jianu</display-name>
+  </channel>
+  <channel id="dff1aa3d36d2c01039ea05e52348f9f1">
+    <display-name>Challenger - Zadar (CRO) : Valentin Royer vs Dino Prizmic</display-name>
+  </channel>
+  <channel id="49771d7d292cc26bf72c84488776c867">
+    <display-name>WTA 125 - Antalya (TUR) : Emiliana Arango vs Chloe Paquet</display-name>
+  </channel>
+  <channel id="071c3a5809e255809c9e55cac458316a">
+    <display-name>Challenger - Zadar (CRO) - Double : C.J.Lock/O.Ovcharenko vs L.Mikrut/M.Poljicak</display-name>
+  </channel>
+  <channel id="8dbc812599b92315990f6c34ac4e53c2">
+    <display-name>Challenger - Zadar (CRO) - Double : De.Molchanov/M.Veldheer vs P.Cachin/T.Skatov</display-name>
+  </channel>
+  <channel id="f4d0741fbbbb87e3f455eef3d2b13324">
+    <display-name>Challenger - Murcia (SPA) : Daniel Merida Aguilar vs Marin Cilic</display-name>
+  </channel>
+  <channel id="a1b6f6520b6e4f83715f2fb055805445">
+    <display-name>Challenger - Murcia (SPA) - Double : J.de Jong/M.Hermans vs S.Ofner/B.Zapata Miralles</display-name>
+  </channel>
+  <channel id="5ef556b33e30c2edb6302e64b8e6afe6">
+    <display-name>Challenger - Murcia (SPA) - Double : N.Alvarez Varona/C.Taberner vs R.Arneodo/M.Guinard</display-name>
+  </channel>
+  <channel id="b0acb17e0157c3aba5baa0d8a283d28c">
+    <display-name>Challenger - Murcia (SPA) - Double : R.Brancaccio/A.Pellegrino vs D.Cukierman/J.Paris</display-name>
+  </channel>
+  <channel id="3004107073dcee2ddf03e15c171f40dd">
+    <display-name>ITF (M) - Badalona (SPA) - Double : M.Alcala Gurri/D.Naharro vs A.Herberg Amoros/A.Marti Pujolras</display-name>
+  </channel>
+  <channel id="7da2568287033083b8c166a4f610627b">
+    <display-name>Challenger - Murcia (SPA) - Double : E.Butvilas/R.Ramanathan vs J.Barranco Cosano/B.Winter Lopez</display-name>
+  </channel>
+  <channel id="3964cda0cf2257333e4fb133a594e090">
+    <display-name>ATP - Miami (USA) : Aleksandar Vukic vs David Goffin</display-name>
+  </channel>
+  <channel id="4c5c54ad64096873b8f2d11a4e391605">
+    <display-name>ATP - Miami (USA) : Alexander Bublik vs Sebastian Baez</display-name>
+  </channel>
+  <channel id="405620a9900a1d5a15f88544ecbc2214">
+    <display-name>ATP - Miami (USA) : Rinky Hijikata vs Hamad Medjedovic</display-name>
+  </channel>
+  <channel id="55bf25785735830c4b1563db2d453fb0">
+    <display-name>ATP - Miami (USA) : Chun Hsin Tseng vs Mattia Bellucci</display-name>
+  </channel>
+  <channel id="af878b69eabeda7745de657b9ead6b17">
+    <display-name>ATP - Miami (USA) : Francisco Comesana vs Federico Cina</display-name>
+  </channel>
+  <channel id="90cd671dc8b928c90baaf5cdc51607b3">
+    <display-name>ATP - Miami (USA) : Tristan Schoolkate vs Ethan Quinn</display-name>
+  </channel>
+  <channel id="2312d428a4161f4ef335e1b405c8072b">
+    <display-name>Challenger - Asuncion (PRY) - Double : C.Rodriguez/M.Zormann vs V.Aboian/I.Carou</display-name>
+  </channel>
+  <channel id="9cdbaeb29be4a4433fd87ddc07ff5c4a">
+    <display-name>Challenger - Asuncion (PRY) : Conner Huertas Del Pino vs Matias Soto</display-name>
+  </channel>
+  <channel id="f90bf6c4c31608a0b5576a95b9765357">
+    <display-name>Challenger - Asuncion (PRY) : Mariano Kestelboim vs Gustavo R.de Almeida</display-name>
+  </channel>
+  <channel id="8acbcd87331003118d156f55762e77ca">
+    <display-name>ATP - Miami (USA) : Gael Monfils vs Fabian Marozsan</display-name>
+  </channel>
+  <channel id="17164b5906a8ec0225807c96f547bab1">
+    <display-name>ATP - Miami (USA) : Alexander Blockx vs Corentin Moutet</display-name>
+  </channel>
+  <channel id="a55c0cbbd56df69c8e51f98d8eb7e34f">
+    <display-name>ATP - Miami (USA) : Camilo Ugo Carabelli vs Brandon Holt</display-name>
+  </channel>
+  <channel id="4dbfe4fcf712ac8d02e6d972d803a77e">
+    <display-name>ATP - Miami (USA) : Christopher O'Connell vs Roberto Carballes Baena</display-name>
+  </channel>
+  <channel id="d482a9dc27f975beb7abf7c33cb00d2b">
+    <display-name>Challenger - Asuncion (PRY) : Benjamin Torrealba vs Daniel Elahi Galan</display-name>
+  </channel>
+  <channel id="814e0c7f6b92e255aad492a74aa25a2d">
+    <display-name>Challenger - Asuncion (PRY) : Franco Roncadelli vs Igor Gimenez</display-name>
+  </channel>
+  <channel id="39d6ef12e6c7db14f85e216ef194bc4b">
+    <display-name>ATP - Miami (USA) : Mackenzie McDonald vs Nick Kyrgios</display-name>
+  </channel>
+  <channel id="e7c8061e49cdda22775d573af95e317c">
+    <display-name>ATP - Miami (USA) : Alexandre Muller vs Rei Sakamoto</display-name>
+  </channel>
+  <channel id="cf9fadeba514a6bc7ec8f2a5e5a863a0">
+    <display-name>ATP - Miami (USA) : Aleksandar Kovacevic vs Miomir Kecmanovic</display-name>
+  </channel>
+  <channel id="061ef86d87f6f4e33687753408d70e79">
+    <display-name>Challenger - Asuncion (PRY) : Lorenzo Joaquin Rodriguez vs Emilio Nava</display-name>
+  </channel>
+  <channel id="6b8305daac7bfc21018cbc086f478b90">
+    <display-name>Challenger - Asuncion (PRY) - Double : V.Kirkov/M.Soto vs A.Baez/A.S.Nunez Vera</display-name>
+  </channel>
+  <channel id="800ad8d054cae448c1fb408d9b62d1f0">
+    <display-name>ATP - Miami (USA) : Arthur Rinderknech vs Jaume Munar</display-name>
+  </channel>
+  <channel id="3b26c4a26955402699f64de9ba8ae66c">
+    <display-name>Challenger - Asuncion (PRY) - Double : A.Guillen Meza/G.I.Justo vs B.Arias/F.Zeballos</display-name>
+  </channel>
+  <channel id="ddc850ff4dfdbc60b9f2352fef3a082c">
+    <display-name>Challenger - Asuncion (PRY) - Double : R.Bertola/G.Roveri Sidney vs P.B.Dias/J.L.R.Silva</display-name>
+  </channel>
+  <channel id="a2dc83f699bdf39925dd7ecd6fa86248">
+    <display-name>Challenger - Merida (MEX) - Double : A.Andrade/M.Kiger vs G.Goldhoff/T.Hilderbrand</display-name>
+  </channel>
+  <channel id="ac2f0bf0892c0002fadcd5d4c9b0a0a5">
+    <display-name>Challenger - Merida (MEX) : Garrett Johns vs Enzo Couacaud</display-name>
+  </channel>
+  <channel id="cd7eddb935e2b08892daaf50df66c9aa">
+    <display-name>Challenger - Merida (MEX) : Renzo Olivo vs Bernard Tomic</display-name>
+  </channel>
+  <channel id="1d5e5ff0088abf6f53571a2425cd75a7">
+    <display-name>Challenger - Asuncion (PRY) : Felix Corwin vs Tomas Barrios Vera</display-name>
+  </channel>
+  <channel id="a574b6a606fe2c716809c3b34a14dbeb">
+    <display-name>Challenger - Asuncion (PRY) - Double : G.Duran/M.Kestelboim vs S.Watanabe/T.Yuzuki</display-name>
+  </channel>
+  <channel id="713dfd4157725a4c254ac354c5b266f8">
+    <display-name>Challenger - Merida (MEX) : Hugo Dellien vs Joshua Sheehy</display-name>
+  </channel>
+  <channel id="20887fd4efab6929378e23682e59b937">
+    <display-name>Challenger - Merida (MEX) - Double : I.Marrero Curbelo/A.F.Rubio Fierros vs T.Whiting/E.Zhu</display-name>
+  </channel>
+  <channel id="d54ce7f65db68e3e85a0b09f96bc5f94">
+    <display-name>Challenger - Asuncion (PRY) - Double : M.Dellien/D.E.Galan vs H.J.Escurra Isnardi/M.V.Del Puerto</display-name>
+  </channel>
+  <channel id="dcdf7961d8000933a1579c4a9cb6beab">
+    <display-name>ATP - Miami (USA) : Eliot Spizzirri vs Billy Harris</display-name>
+  </channel>
+  <channel id="71842ad56fa2fa14416e5ac0af5ed192">
+    <display-name>Challenger - Merida (MEX) - Double : E.Couacaud/R.Olivo vs A.Hernandez/D.Moreno</display-name>
+  </channel>
+  <channel id="ff0b604fa35e3155296671fb36f5b3e6">
+    <display-name>Challenger - Merida (MEX) - Double : D.Hidalgo/R.Stalder vs K.Feldbausch/R.Pacheco Mendez</display-name>
+  </channel>
+  <channel id="a9dd637054d1e6180a055b9f4ac407d2">
+    <display-name>Challenger - Merida (MEX) - Double : R.Ho/J.Sheehy vs P.Maloney/B.Sigouin</display-name>
+  </channel>
+  <channel id="767342cebedb27891b1433953ed1c78b">
+    <display-name>ATP - Miami (USA) : Thiago Seyboth Wild vs Quentin Halys</display-name>
+  </channel>
+  <channel id="d39d6d90a70caff46b6ea0f5523f3605">
+    <display-name>Challenger - Merida (MEX) : Juan Pablo Ficovich vs Tyler Zink</display-name>
+  </channel>
+  <channel id="9284dfcebc5f8de076ffa25113e060b0">
+    <display-name>FIA World Rally Championship: Safari Rally</display-name>
+  </channel>
+  <channel id="c5859f7bcc12f51550055536aca6d80f">
+    <display-name>All Elite Wrestling: Dynamite</display-name>
+  </channel>
+  <channel id="d8bda781589c1a0ee3edf3b30357fe1f">
+    <display-name>Live Players Championship - Telford, England</display-name>
+  </channel>
+  <channel id="e46154760a413b87e4f52ed5b8d26041">
+    <display-name>Players Championship : John Higgins vs Chris Wakelin</display-name>
+  </channel>
+  <channel id="70d1b939e3fd7525efeb01b80723711f">
+    <display-name>Players Championship : Xiao Guodong vs Wu Yize</display-name>
+  </channel>
+  <channel id="058154d4989f0b5d1718a6c3e9a5a6ac">
+    <display-name>Players Championship : Mark Williams vs Kyren Wilson</display-name>
+  </channel>
+  <channel id="d8bda781589c1a0ee3edf3b30357fe1f">
+    <display-name>Live Players Championship - Telford, England</display-name>
+  </channel>
+  <channel id="3ffa3e4c7db8cb6ac9e51d99b2241e2e">
+    <display-name>College Softball : Florida State vs Alabama</display-name>
+  </channel>
+  <channel id="2edfa87e1d09e9e55b35e1ffa3aee4bd">
+    <display-name>College Softball : Liberty vs North Carolina (Chapel Hill)</display-name>
+  </channel>
+  <channel id="a7fb21a6b1f140d9929ba9d55fac009c">
+    <display-name>MLB : Chicago Cubs vs Los Angeles Dodgers</display-name>
+  </channel>
+  <channel id="b50d46763e741f49b345d84caee8b119">
+    <display-name>MLB : Pittsburgh Pirates vs Philadelphia Phillies</display-name>
+  </channel>
+  <channel id="7f85740c8f85f26811cf506860bf4b23">
+    <display-name>MLB : New York Yankees vs Philadelphia Phillies</display-name>
+  </channel>
+  <channel id="26f8b373bfd78ad4f169ce91e6977225">
+    <display-name>MLB : Detroit Tigers at Boston Red Sox</display-name>
+  </channel>
+  <channel id="bea44cee0d2d39476e092eb5611fee0a">
+    <display-name>MLB : Washington Nationals vs St. Louis Cardinals</display-name>
+  </channel>
+  <channel id="d3d8b1a300f4c6662bf6a5fcdd21f46e">
+    <display-name>MLB : MLB Baseball Athletics vs Cleveland Guardians</display-name>
+  </channel>
+  <channel id="ae29b78466b2d3df567f2aceac356030">
+    <display-name>MLB : Washington Nationals vs Houston Astros</display-name>
+  </channel>
+  <channel id="288881d4312a033d07d6b5da62cad525">
+    <display-name>MLB : Atlanta Braves vs New York Yankees</display-name>
+  </channel>
+  <channel id="c87388e6d383b12182e57fd634fbd20c">
+    <display-name>MLB : San Francisco Giants vs Kansas City Royals</display-name>
+  </channel>
+  <channel id="f864a640c48871b9ea6d2cfd373e01bc">
+    <display-name>New Zealand - NBL : Whai vs Otago Nuggets</display-name>
+  </channel>
+  <channel id="581d9b5ff70fda73b396edfafc5f0739">
+    <display-name>NBL : Melbourne United vs Illawarra Hawks</display-name>
+  </channel>
+  <channel id="23dd5ac555e44e673e668a3750bc59f9">
+    <display-name>Asia Cup : Chinese Taipei vs Guam</display-name>
+  </channel>
+  <channel id="e6004036205a17b81f5f404f5644baad">
+    <display-name>China - CBA : Beijing Ducks vs Jilin</display-name>
+  </channel>
+  <channel id="4c7a089a5efe110482a0a11a9940262a">
+    <display-name>China - CBA : Fujian Sturgeons vs Beijing Royal Fighters</display-name>
+  </channel>
+  <channel id="3474a3f64a148c014b261e3ab14aeec2">
+    <display-name>China - CBA : Liaoning Flying Leopards vs Shenzhen Leopards</display-name>
+  </channel>
+  <channel id="a9ebf63dddf3ee8bd51ca86e2271f01c">
+    <display-name>China - CBA : Ningbo Rockets vs Shanghai Sharks</display-name>
+  </channel>
+  <channel id="b0dfa30d614abd2f76c50f311a340be5">
+    <display-name>China - CBA : Qingdao Eagles vs Jiangsu Dragons</display-name>
+  </channel>
+  <channel id="ceac20b7c6a3112c5c556a7fc0b43d86">
+    <display-name>China - CBA : Shandong Heroes vs Guangzhou Loong Lions</display-name>
+  </channel>
+  <channel id="77cd355534613ce47d10b2d6a4d5caca">
+    <display-name>Russia United League : Parma Permsky Kray vs MBA-MAI Moscow</display-name>
+  </channel>
+  <channel id="cf6601f2ae9d39f79fff6d097fab8ce8">
+    <display-name>Russia United League : Uralmash Yekaterinburg vs UNICS Kazan</display-name>
+  </channel>
+  <channel id="7263863debca2f408f2fd2cd58e71ed1">
+    <display-name>Romania Liga Nationala : CS Valcea 1924 Rm Valcea vs. CSM CSU Oradea</display-name>
+  </channel>
+  <channel id="0ba16e58f4b35ac66937da02a4717c43">
+    <display-name>Finland - Korisliga - Winners' Tour : Helsinki vs Kataja</display-name>
+  </channel>
+  <channel id="6f875464f3da390beb236f236324f241">
+    <display-name>Finland - Korisliga - The losers' tour : Honka vs Nokia</display-name>
+  </channel>
+  <channel id="0fed8d316e7c2881d52833285f478ab3">
+    <display-name>Finland - Korisliga - Winners' Tour : Kauhajoen Karhu vs Salon Vilpas</display-name>
+  </channel>
+  <channel id="1bb25a5ccfaf5ae528569a3c3e88ad8c">
+    <display-name>Finland - Korisliga - The losers' tour : KTP Kotka vs Korikobrat</display-name>
+  </channel>
+  <channel id="b5bac81a41a4f3b4ead02ef8d20c6eb7">
+    <display-name>Finland - Korisliga - The losers' tour : Pyrinto Tampere vs Kouvot Kouvola</display-name>
+  </channel>
+  <channel id="6ae5f299fec989084e980549936ed0cb">
+    <display-name>Finland - Korisliga - Winners' Tour : UU-Korihait vs LoKoKo Bisons</display-name>
+  </channel>
+  <channel id="13269b50db83417066b6dd3a4bed03d7">
+    <display-name>Russia United League : Pari Nizhny Novgorod vs Zenit St. Petersburg</display-name>
+  </channel>
+  <channel id="398415d9851969c903ff7acbb496bec0">
+    <display-name>NBA G-League : Salt Lake City Stars vs Mexico City Capitanes</display-name>
+  </channel>
+  <channel id="5fbf4ac24aa85c01c4116d6a6371b5a3">
+    <display-name>ABA Liga 2 : Kk Cedevita Zagreb Junior vs. KD Ilirija</display-name>
+  </channel>
+  <channel id="60dbb7f466def7639d031fa55e1417ff">
+    <display-name>Champions League : Petkim Spor vs Tenerife</display-name>
+  </channel>
+  <channel id="9e1d3ae6c47049a28cc5f55d79bae7fb">
+    <display-name>NBA G-League : Capital City Go-Go vs Fort Wayne Mad Ants</display-name>
+  </channel>
+  <channel id="7afd0d28eb7983c6665416d7c661fbc6">
+    <display-name>NBA G-League : Oklahoma City Blue vs Stockton Kings</display-name>
+  </channel>
+  <channel id="1de18706466333e9e00b36707814662e">
+    <display-name>Champions League : Wurzburg vs Prometheus</display-name>
+  </channel>
+  <channel id="342501e8678ac38b2d3a1a0ac2582b97">
+    <display-name>Swiss - LNA : Neuchatel vs BBC Nyon</display-name>
+  </channel>
+  <channel id="75bce385e352d47cfccd76d27798a638">
+    <display-name>Super League : Gilboa Galil vs Hapoel Tel-Aviv</display-name>
+  </channel>
+  <channel id="c80afd861d8a0f3176da7a6279e930b0">
+    <display-name>Champions League : Nanterre vs Murcia</display-name>
+  </channel>
+  <channel id="74ad6d778c63cc950b2c1503942f7526">
+    <display-name>ABA Liga 2 : KK Bosna Royal Sarajevo vs. Helios Domzale</display-name>
+  </channel>
+  <channel id="acf24f5ed006d3649329369765ac4b56">
+    <display-name>Spain: Liga Femenina Women : Cadi La Seu W vs IDK Gipuzkoa W</display-name>
+  </channel>
+  <channel id="4352f6007688328b5edcb5bf0a37ebdc">
+    <display-name>NBA G-League : Valley Suns vs Memphis Hustle</display-name>
+  </channel>
+  <channel id="ef5c1621f9f2ef3ce5d0ffa0218543c5">
+    <display-name>Champions League : Tortona vs AEK Athens</display-name>
+  </channel>
+  <channel id="03d52956e6f07f2c2aefa8e864943b3b">
+    <display-name>England - SLB : Bristol Flyers vs Caledonia Gladiators</display-name>
+  </channel>
+  <channel id="8a35ab5617e0523a571233b563efd307">
+    <display-name>Italy - Serie A2 : Cividale vs Verona</display-name>
+  </channel>
+  <channel id="72ae943d972725bec0ac96f4e21ba550">
+    <display-name>Italy - Serie A2 : Fortitudo Bologna vs Urania Milano</display-name>
+  </channel>
+  <channel id="b8c0de291ce0820f8b3044663590c87f">
+    <display-name>Italy - Serie A2 : Vigevano vs Orzinuovi</display-name>
+  </channel>
+  <channel id="f0c58f52587ba476b0cb00469999a3aa">
+    <display-name>Brazil - NBB : Minas vs Flamengo</display-name>
+  </channel>
+  <channel id="3409d88a202409aa4a7f741cf43dc6ca">
+    <display-name>College Basketball - March Madness First Four: American University vs Mount St. Mary's</display-name>
+  </channel>
+  <channel id="30a344d57fd19b2df445ad83fe04b510">
+    <display-name>NBA G-League : College Park Skyhawks vs Westchester</display-name>
+  </channel>
+  <channel id="8ffb67dbe556682965be6ba802c757dd">
+    <display-name>NBA G-League : Greensboro Swarm vs Motor City Cruise</display-name>
+  </channel>
+  <channel id="194bc48b35e6eb33bd9b82db5039c231">
+    <display-name>Argentina - LLA : Ciclista Juninense vs Atletico Pilar</display-name>
+  </channel>
+  <channel id="70c3b934321d41d9b534bcb5455da3cc">
+    <display-name>Argentina - LLA : Villa Mitre de Bahia Blanca vs Gimnasia Y Esgrima</display-name>
+  </channel>
+  <channel id="f68ced728ab2f20b33ca726c59ffec0b">
+    <display-name>NBA G-League : Sioux Falls Skyforce vs South Bay Lakers</display-name>
+  </channel>
+  <channel id="e718937af0da26a53e5a737329fbc2fe">
+    <display-name>NCAA Basketball : First Round: TBA vs TBA</display-name>
+  </channel>
+  <channel id="cc38ecb0865ee4d041cffa22d3be8b3e">
+    <display-name>College Basketball - March Madness First Four : Texas vs Xavier</display-name>
+  </channel>
+  <channel id="432b3700917eeb127596c7a15f010aec">
+    <display-name>2025 NCAA Women's Basketball Tournament First Four: Iowa State vs Princeton</display-name>
+  </channel>
+  <channel id="7b7bbd6e7e691cf43c8a6c8265256d53">
+    <display-name>2025 NIT Basketball Tournament First Round: Florida Atlantic vs Dayton</display-name>
+  </channel>
+  <channel id="f47e86bfaa548ecaa90b6217ac893c78">
+    <display-name>2025 NCAA Women's Basketball Tournament First Four: Southern vs UC San Diego</display-name>
+  </channel>
+  <channel id="97f39fb2c413a220f106dcff255e71dd">
+    <display-name>2025 NIT Basketball Tournament First Round: Northern Iowa vs SMU</display-name>
+  </channel>
+  <channel id="5911d2f89d9d202f9fb11ca2450b96a8">
+    <display-name>2025 NIT Basketball Tournament First Round: Utah Valley vs San Francisco</display-name>
+  </channel>
+  <channel id="851da15e3e982eea6451dd15a386e73e">
+    <display-name>2025 NIT Basketball Tournament First Round: Loyola-Chicago vs San Jose State</display-name>
+  </channel>
+  <channel id="9a6f2e578120d65292c8b36f2b031bff">
+    <display-name>NBA : Dallas Mavericks vs Indiana Pacers</display-name>
+  </channel>
+  <channel id="bfd953c7225b6efd24e0f60a5289ba3d">
+    <display-name>NBA : Houston Rockets vs Orlando Magic</display-name>
+  </channel>
+  <channel id="198a331447f3b7014138a340b5607735">
+    <display-name>NBA : Detroit Pistons vs Miami Heat</display-name>
+  </channel>
+  <channel id="a6970043ea9b92285f9bbcb5fc0cd973">
+    <display-name>NBA : New Orleans Pelicans vs Minnesota Timberwolves</display-name>
+  </channel>
+  <channel id="1260c00347efc75751780dcf19951138">
+    <display-name>NBA : Philadelphia 76ers vs Oklahoma City Thunder</display-name>
+  </channel>
+  <channel id="46edd07e76292d6c3170a6b52d9c36c7">
+    <display-name>NBA : New York Knicks vs San Antonio Spurs</display-name>
+  </channel>
+  <channel id="8196227b474b9fdf020460623fab68b4">
+    <display-name>NBA : Washington Wizards vs Utah Jazz</display-name>
+  </channel>
+  <channel id="19207999dd9dbc1520e1292c9d651b96">
+    <display-name>NBA : Denver Nuggets vs Los Angeles Lakers</display-name>
+  </channel>
+  <channel id="a067ec1e155a049808058ef0eb265c80">
+    <display-name>NBA : Chicago Bulls vs Phoenix Suns</display-name>
+  </channel>
+  <channel id="80fe6d973e9a1809c88444bf72398708">
+    <display-name>NBA : Memphis Grizzlies vs Portland Trail_blazers</display-name>
+  </channel>
+  <channel id="5eff419cd1ca4aadb32e420732af29c0">
+    <display-name>NBA : Cleveland Cavaliers vs Sacramento Kings</display-name>
+  </channel>
+  <channel id="bd0dc12e040777a6cc5218dc75355cc7">
+    <display-name>World Surf League: 2025 WSL Championship Tour: MEO Rip Curl Pro Portugal</display-name>
+  </channel>
+  <channel id="7e85c22b42434f1a2dd65a574de7599a">
+    <display-name>PBA Bowling World Series of Bowling XVI, Shark Championship</display-name>
+  </channel>
+  <channel id="51e309f4b3ee91e56b043f65db437148">
+    <display-name>Tallinn | Sprint Freestyle World Cup</display-name>
+  </channel>
+  <channel id="ed39cbb2a7c7063b76b4e0d470939b43">
+    <display-name>Absa Cape Epic '25: Stage 3</display-name>
+  </channel>
+  <channel id="7048ba2d986fcf99158fdf919508f62d">
+    <display-name>Nokere Koerse Women | Deinze - Nokere (134km)</display-name>
+  </channel>
+  <channel id="8bb43397252e791bb42246cc7a4f809f">
+    <display-name>Milano-Torino Men | Rho - Torino (174km)</display-name>
+  </channel>
+  <channel id="f03078cb3f2b69782047252d5eb075c6">
+    <display-name>Nokere Koerse Men | Deinze - Nokere (188km)</display-name>
+  </channel>
+  <channel id="8df627970436afce68370a5622bd396a">
+    <display-name>SuperLiga : Tyumen vs Torpedo</display-name>
+  </channel>
+  <channel id="12dff61829eca5c96c2e368935062195">
+    <display-name>Women's Futsal 2025 World Cup Qualifiers: Portugal vs Sweden</display-name>
+  </channel>
+  <channel id="723050c1f95eccc82d1c5943b4bd2cf1">
+    <display-name>Romania Liga Nationala Women : CS Gloria 2018 Bistrita-Nasaud vs. SCM Ramnicu Valcea</display-name>
+  </channel>
+  <channel id="01fc0061dc6b00b07f3bd702b96eec5a">
+    <display-name>Hungarian Cup: 1/4 Final : Veszprem vs Ferencvaros</display-name>
+  </channel>
+  <channel id="1f03b1c31bb6110536585274c3f67c49">
+    <display-name>Spain - ASOBAL : Granollers vs Cuenca</display-name>
+  </channel>
+  <channel id="e124099ee0e1434c79e3f22e825bd4dd">
+    <display-name>Spain - ASOBAL : Bidasoa Irun vs Villa de Aranda</display-name>
+  </channel>
+  <channel id="c6aa8ab5f2a69a6d912d776e15968b38">
+    <display-name>Denmark Handboldligaen : Grindsted GIF vs. Fredericia HK 1990</display-name>
+  </channel>
+  <channel id="a3465f04e67a0dc102c57521c7acc62e">
+    <display-name>Spain Asobal : BM Huesca vs. FC Barcelona</display-name>
+  </channel>
+  <channel id="3210102c7af65ddda69373d5d3456858">
+    <display-name>LFH Women : Brest Bretagne W vs Besancon W</display-name>
+  </channel>
+  <channel id="9ba42e32ee7c8a7c28b59ad89aa8f01e">
+    <display-name>Poland Superliga : KPR Legionowo vs. MKS Kalisz</display-name>
+  </channel>
+  <channel id="176ee749e98d9ba6ffc08381ac47b18f">
+    <display-name>Spain - ASOBAL : Torrelavega vs La Rioja</display-name>
+  </channel>
+  <channel id="a9a36a73e887e837c689831990a8d409">
+    <display-name>Live racing from Haydock and Huntingdon</display-name>
+  </channel>
+  <channel id="42a3d4aacf3c96864f32615c0bbd69f7">
+    <display-name>Live racing from Southwell</display-name>
+  </channel>
+  <channel id="1d3c2f5d03b68585637e84bf87a79f79">
+    <display-name>MHL : MHK Dynamo U20 vs Spartak Moscow U20</display-name>
+  </channel>
+  <channel id="8476ce671e9099580ea5ed7af9c8718f">
+    <display-name>KHL : Metallurg Magnitogorsk vs Admiral Vladivostok</display-name>
+  </channel>
+  <channel id="82c62b15b9d978d268ec14f91faf8a2d">
+    <display-name>Czech Republic Extraliga : HC Kometa Brno vs. Energie Karlovy Vary</display-name>
+  </channel>
+  <channel id="2e866ddff41b8b9e7fdce64e332d23fb">
+    <display-name>Poland - PHL - Playoff : GKS Jastrzebie vs GKS Tychy</display-name>
+  </channel>
+  <channel id="b95a34ea4e0071360a85a5ce10919d9c">
+    <display-name>KHL : CSKA Moscow vs. Lokomotiv Yaroslavl</display-name>
+  </channel>
+  <channel id="546269c4a47abdea3995e6fc42e98922">
+    <display-name>Czech - Maxa liga - Playoff : Berani Zlin vs Stadion Litomerice</display-name>
+  </channel>
+  <channel id="81fdc844c2db9d044a2e42a068fe1ffb">
+    <display-name>Slovakia - Extraliga - Playoff : Spisska Nova Ves vs Zvolen</display-name>
+  </channel>
+  <channel id="01f8fa0f71b49f5b75f6d5111e69e53e">
+    <display-name>Czech - Maxa liga - Playoff : VHK Vsetin vs Dukla Jihlava</display-name>
+  </channel>
+  <channel id="028f6946faa35e79e14c4236799a8a9a">
+    <display-name>Slovakia - Extraliga - Playoff : Kosice vs Dukla Trencin</display-name>
+  </channel>
+  <channel id="d80bc50fc1862218d116266073ea23a1">
+    <display-name>Latvia - LHL - Playoff : Zemgale vs Panter</display-name>
+  </channel>
+  <channel id="6c53aef109f2eb702e48f2c85535d00f">
+    <display-name>SHL : HV 71 vs Modo</display-name>
+  </channel>
+  <channel id="6602d6390a99260958ff19385de3f754">
+    <display-name>HockeyAllsvenskan : Sodertalje vs Kalmar</display-name>
+  </channel>
+  <channel id="822b85e6142d3c804156c7bc8e329ec7">
+    <display-name>HockeyAllsvenskan : IF Bjorkloven vs AIK</display-name>
+  </channel>
+  <channel id="255ff897fb44d62c83883bea37c811cf">
+    <display-name>Norway - EHL - Playoff : Frisk Asker vs Stavanger Oilers</display-name>
+  </channel>
+  <channel id="cf2bd390097865c57f5c79828cb0aced">
+    <display-name>DEL : Straubing Tigers vs Eisbaren Berlin</display-name>
+  </channel>
+  <channel id="226beac0b89fd88e714db07b7901c605">
+    <display-name>DEL : Red Bull München vs Adler Mannheim</display-name>
+  </channel>
+  <channel id="5a94c8be3ca4b0be44e06aa86519fb30">
+    <display-name>Swiss - NLA - Playoff : Kloten vs ZSC Lions</display-name>
+  </channel>
+  <channel id="b4c217e61417d3f1d03b21b71a668722">
+    <display-name>Swiss - NLA - Playout : Lugano vs Ajoie</display-name>
+  </channel>
+  <channel id="73ceeb8457a297ca0347e1171de5072f">
+    <display-name>Swiss - NLA - Playoff : SC Langenau Tigers vs Lausanne</display-name>
+  </channel>
+  <channel id="dec9eb4862502485c72529c5122982cf">
+    <display-name>PWHL : New York Sirens vs Toronto</display-name>
+  </channel>
+  <channel id="d9307bd1da762126cdcbd9767092c3f2">
+    <display-name>AHL Hockey : Milwaukee Admirals vs Lehigh Valley Phantoms</display-name>
+  </channel>
+  <channel id="ecb674adbdc163e3a6e72ba213171974">
+    <display-name>NHL : Colorado Avalanche vs Toronto Maple Leafs</display-name>
+  </channel>
+  <channel id="3e131fb66bde0cdbfe0e9961409aad5d">
+    <display-name>NHL : Seattle Kraken vs Minnesota Wild</display-name>
+  </channel>
+  <channel id="e5ad39969f2d286bee081f016f8104e5">
+    <display-name>Russia Superliga : Lokomotiv Novosibirsk vs Zenit St. Petersburg</display-name>
+  </channel>
+  <channel id="9f517fbe823f97ec4d3179d1f725afb9">
+    <display-name>CEV Cup Hague : Ziraat Bankasi Ankara vs. Trentino Volley</display-name>
+  </channel>
+  <channel id="fe1cd58670d72bc8167eb966be0c8a54">
+    <display-name>Champions League : Projekt Warsaw vs. Halkbank Ankara</display-name>
+  </channel>
+  <channel id="b4cc164cfc776d9c843d40f1495f6a52">
+    <display-name>CEV Cup Hague : Tours Volley-Ball vs. Resovia Rzeszow</display-name>
+  </channel>
+  <channel id="40294fd9abca016e6fabb177e3ace2f7">
+    <display-name>Champions League : Jastrzebski Wegiel vs. Olympiakos</display-name>
+  </channel>
+  <channel id="f159087e2a28b7689fc70c85760596f9">
+    <display-name>Challenge Cup : Volley Civitanova vs. Lkps Lublin</display-name>
+  </channel>
+  <channel id="24a3f37dd82db553f6b3e9923b609c04">
+    <display-name>SuperLiga : Goias vs Sada Cruzeiro</display-name>
+  </channel>
+  <channel id="e7e9d74b879bfaa55b6e300d163a1ad3">
+    <display-name>European Open Classic Powerlifting Championships Session 2 | Malaga</display-name>
+  </channel>
+  <channel id="cdca1397ac20f6565290aa0cde1c91e8">
+    <display-name>LEN Champions League, Quarterfinals : RN Savona vs. CN Barceloneta</display-name>
+  </channel>
+  <channel id="1e375b3f71fed241163b6c30f6bd66bf">
+    <display-name>LEN Champions League, Quarterfinals : CSM Oradea vs. Ferencvarosi TC Waterpolo</display-name>
+  </channel>
+  <channel id="5d34b3ef37891dc27cbd9137628b885d">
+    <display-name>Women's Curling World Championship : Italy vs Sweden</display-name>
+  </channel>
+  <channel id="700dd46f11bf0c06c11d0e4d701fa216">
+    <display-name>Women | Round Robin | World Championship : Japan vs Scotland</display-name>
+  </channel>
+  <channel id="64e927e425cbfcfe45047feae31e3a40">
+    <display-name>World Championships Engadin | Men's and Women's Moguls</display-name>
+  </channel>
+  <channel id="edc37d9ee835e1ff72504b4a11c73e8b">
+    <display-name>World Cup | Tallinn Freestyle Sprint | Men's and Women's</display-name>
+  </channel>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="b2aff65c1fd0bfbe1ab46f372310296b">
+    <title>Red Bull Cliff Diving World Series Stop 4: Downpatrick Head, Ireland 2021</title>
+    <desc>05:00 AM PT / 08:00 AM ET / 12:00 PM GMT
+01:00 PM CET / 08:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="f88c06100a9fea4f7d2629f7dd85b58b">
+    <title>Hell's Kitchen Season 12, Episode 14</title>
+    <desc>05:00 AM PT / 08:00 AM ET / 12:00 PM GMT
+01:00 PM CET / 08:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="c41da8d7917a4a9f682fcadb4dfff297">
+    <title>The Price Is Right</title>
+    <desc>08:00 AM PT / 11:00 AM ET / 03:00 PM GMT
+04:00 PM CET / 11:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="270ffa189f674923c62149bf8c630421">
+    <title>Crankworx World Tour 106</title>
+    <desc>08:00 AM PT / 11:00 AM ET / 03:00 PM GMT
+04:00 PM CET / 11:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="2fdf9d105a9fcd73c25e8dcc4abc13cd">
+    <title>Pirates Classics Pirates vs Expos</title>
+    <desc>08:00 AM PT / 11:00 AM ET / 03:00 PM GMT
+04:00 PM CET / 11:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="9c3075f08656ab157633e0b38f7b8d89">
+    <title>RED BULL: THE CLIP SHOW 107</title>
+    <desc>09:00 AM PT / 12:00 PM ET / 04:00 PM GMT
+05:00 PM CET / 12:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="4c0b39cf0d07c178172e4861fb763ded">
+    <title>Big Xii Pro Day Live</title>
+    <desc>10:00 AM PT / 01:00 PM ET / 05:00 PM GMT
+06:00 PM CET / 01:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="d3583140870e9be0de2e7c797cea7172">
+    <title>Beyond the Gates Season 1, Episode 18</title>
+    <desc>11:00 AM PT / 02:00 PM ET / 06:00 PM GMT
+07:00 PM CET / 02:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="75eb0a8155d6e8ce06994bc1af05e7ae">
+    <title>Pictionary Season 3, Episode 113</title>
+    <desc>11:00 AM PT / 02:00 PM ET / 06:00 PM GMT
+07:00 PM CET / 02:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="faf29e498f53a1dc5410449d66f65268">
+    <title>The Kelly Clarkson Show Season 6, Episode 113</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="e89d200d4c3a2e5e72f24bed444993d9">
+    <title>General Hospital Season 62, Episode 132</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="f5ea9571e882de388737c1a7f09d272d">
+    <title>Tal para cual Season 2, Episode 73</title>
+    <desc>02:00 PM PT / 05:00 PM ET / 09:00 PM GMT
+10:00 PM CET / 05:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="9517d3eb55802b361295970b87e1828a">
+    <title>The Thundermans: Undercover Season 1, Episode 11</title>
+    <desc>04:00 PM PT / 07:00 PM ET / 11:00 PM GMT
+12:00 AM CET / 07:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="77b64a268bee9842c7ec9016a7dc8a8e">
+    <title>Expedition X Season 9, Episode 9</title>
+    <desc>04:00 PM PT / 07:00 PM ET / 11:00 PM GMT
+12:00 AM CET / 07:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="1c1529de27537ec9460ec16b644f1f54">
+    <title>Jeopardy! Season 41, Episode 138</title>
+    <desc>04:00 PM PT / 07:00 PM ET / 11:00 PM GMT
+12:00 AM CET / 07:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="402a94cf921652de79944f678e1b12d8">
+    <title>The Challenge All Stars: Rivals Season 5, Episode 8</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="da645c4ab818241fa55936c3540879ae">
+    <title>Beyond the Gates Season 1, Episode 8</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="bb002f774d35524de71d26da760ff387">
+    <title>A Body in the Snow: The Trial of Karen Read Season 1, Episode 4</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="f68d44a4814226686747d817e428d55f">
+    <title>American Ninja Warrior National Finals 3</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="8f65edf7716537d631e4db3406446a9a">
+    <title>Dateline: Secrets Uncovered Season 14, Episode 19</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="93b81d2967eedf3ac8aa13135ac18e27">
+    <title>Night Court Season 2, Episode 8</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="e5d099c74ad0feeef44fb7731399e656">
+    <title>Married to Real Estate Season 4, Episode 2</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="2d349c57e46ad9c77f7e4953e030f40f">
+    <title>Papás por conveniencia Season 1, Episode 42</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="440c1a21c78f2c94fc74cc86da168346">
+    <title>Shifting Gears Season 1, Episode 10 • Finale</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="a3f226b03856accd0978d8fbbf8a250f">
+    <title>Opry 100: A Live Celebration Live</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="f93e6ce9ad0d1757bfee0f4e06dad5b7">
+    <title>Survivor Season 48, Episode 4</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="83d6d20e4b2da8cdb714855f90f6a798">
+    <title>The Masked Singer Season 13, Episode 6</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="7d5959e73a4af52e2b6031ed692157ae">
+    <title>Wild Cards Season 2, Episode 7</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="06f4f0dd3c63462db39ad4310548db2b">
+    <title>NCAA March Madness 360</title>
+    <desc>06:00 PM PT / 09:00 PM ET / 01:00 AM GMT
+02:00 AM CET / 09:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="dda9201fe4e6dbc31a57bf8e561658e4">
+    <title>Bitchin' Rides New</title>
+    <desc>06:00 PM PT / 09:00 PM ET / 01:00 AM GMT
+02:00 AM CET / 09:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="8bb118ed57659982d560c3bbec7241b0">
+    <title>To Catch a Smuggler Season 7</title>
+    <desc>06:00 PM PT / 09:00 PM ET / 01:00 AM GMT
+02:00 AM CET / 09:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="bf1579f6b7ca0ff450cb90995a8aa239">
+    <title>Pawn Stars Season 23</title>
+    <desc>06:00 PM PT / 09:00 PM ET / 01:00 AM GMT
+02:00 AM CET / 09:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="453556e3b85fd62af4b926af967cf187">
+    <title>Stadium Lockup Season 1, Episode 1 • Premiere</title>
+    <desc>06:00 PM PT / 09:00 PM ET / 01:00 AM GMT
+02:00 AM CET / 09:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="9c54f9510e15844c5e4aada7ec9bd446">
+    <title>Summer House Season 9, Episode 6</title>
+    <desc>06:00 PM PT / 09:00 PM ET / 01:00 AM GMT
+02:00 AM CET / 09:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="8d49fc74aac306b591d17ede7665a3bb">
+    <title>Izzy Does It Season 1, Episode 7</title>
+    <desc>06:00 PM PT / 09:00 PM ET / 01:00 AM GMT
+02:00 AM CET / 09:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="00bad9531ce61f3fa03b1f221646b4ed">
+    <title>The Floor Season 3, Episode 7</title>
+    <desc>06:00 PM PT / 09:00 PM ET / 01:00 AM GMT
+02:00 AM CET / 09:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="26e8165f806689b740cd127b7081d741">
+    <title>Good Cop/Bad Cop Season 1, Episode 5</title>
+    <desc>06:00 PM PT / 09:00 PM ET / 01:00 AM GMT
+02:00 AM CET / 09:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="5e8aa3fdc2b94eabdf6d43a04977d9d9">
+    <title>Las hijas de la señora García Season 1, Episode 46</title>
+    <desc>06:00 PM PT / 09:00 PM ET / 01:00 AM GMT
+02:00 AM CET / 09:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="26355e0ce2866d06f0d11c3868f8479c">
+    <title>For My Man Season 8, Episode 24</title>
+    <desc>06:00 PM PT / 09:00 PM ET / 01:00 AM GMT
+02:00 AM CET / 09:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="6942231cea67e161db073a3d79778efb">
+    <title>All the Queen's Men Season 3, Episode 1 • Premiere</title>
+    <desc>06:00 PM PT / 09:00 PM ET / 01:00 AM GMT
+02:00 AM CET / 09:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="4cf8f1427d084d040e0022284a3a706f">
+    <title>The Amazing Race Season 37, Episode 3</title>
+    <desc>06:30 PM PT / 09:30 PM ET / 01:30 AM GMT
+02:30 AM CET / 09:30 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="e39dbd1de07a5a5b985ac56447f50906">
+    <title>Handguns 5 Keys to Better Shooting</title>
+    <desc>06:30 PM PT / 09:30 PM ET / 01:30 AM GMT
+02:30 AM CET / 09:30 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="482f174c8da06696b61ab4070141c280">
+    <title>American Ninja Warrior Season 13, Episode 13</title>
+    <desc>07:00 PM PT / 10:00 PM ET / 02:00 AM GMT
+03:00 AM CET / 10:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="e7fcf69a74eadcb37b0264f016afb11d">
+    <title>Booked: First Day In Season 3, Episode 1 • Premiere</title>
+    <desc>07:00 PM PT / 10:00 PM ET / 02:00 AM GMT
+03:00 AM CET / 10:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="19de15531dc9a474505a8e8d218eac5b">
+    <title>House Hunters Season 258, Episode 4</title>
+    <desc>07:00 PM PT / 10:00 PM ET / 02:00 AM GMT
+03:00 AM CET / 10:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="6351c9d14aedc08f99ab6a8465d05842">
+    <title>Poker Go Tour Championship Final 2024 Table- Part 1</title>
+    <desc>07:00 PM PT / 10:00 PM ET / 02:00 AM GMT
+03:00 AM CET / 10:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="becf38c60ea4451a7a5c47ddcd9e9843">
+    <title>Zatima Season 3, Episode 4</title>
+    <desc>07:30 PM PT / 10:30 PM ET / 02:30 AM GMT
+03:30 AM CET / 10:30 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="e4a20e4e538884ed95fad336729d128d">
+    <title>Ridiculousness Sterling and Lolo Wood CXI Season 42</title>
+    <desc>07:30 PM PT / 10:30 PM ET / 02:30 AM GMT
+03:30 AM CET / 10:30 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="1307558a4c0b975aea378efb9e0aae9e">
+    <title>WOW - Women Of Wrestling Season 5, Episode 27</title>
+    <desc>09:00 PM PT / 12:00 AM ET / 04:00 AM GMT
+05:00 AM CET / 12:00 PM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="67df4ce8bddb9bc35b156d7b77c2ff8e">
+    <title>U19 Euro Qualifying : Portugal U19 vs Türkiye U19</title>
+    <desc>03:00 AM PT / 06:00 AM ET / 10:00 AM GMT
+11:00 AM CET / 06:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="68d98b8b8201a49bd7a895f187d217c5">
+    <title>CE U19 2024 - Qualifiers - Gr.2 : Montenegro U19 vs Slovakia U19</title>
+    <desc>03:00 AM PT / 06:00 AM ET / 10:00 AM GMT
+11:00 AM CET / 06:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="adbf9b7753a6a461cacae5f740674f81">
+    <title>UU17 European Championship : Ukraine U17 vs Croatia U17</title>
+    <desc>03:00 AM PT / 06:00 AM ET / 10:00 AM GMT
+11:00 AM CET / 06:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="e56261a45bdb3dba5664f225b31bb2d6">
+    <title>India I-League : Dempo vs Churchill Brothers</title>
+    <desc>04:00 AM PT / 07:00 AM ET / 11:00 AM GMT
+12:00 PM CET / 07:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="11b0a4e01819ffe8c94e98c444f13f75">
+    <title>Portugal - League Revelacao U23 - Gr.Retrogradare : Leixoes U23 vs Mafra U23</title>
+    <desc>04:00 AM PT / 07:00 AM ET / 11:00 AM GMT
+12:00 PM CET / 07:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="c8f5e48576a2834375c192046cd5c295">
+    <title>Portugal - League Revelacao U23 - Gr.Championship : Vizela U23 vs Torreense U23</title>
+    <desc>04:00 AM PT / 07:00 AM ET / 11:00 AM GMT
+12:00 PM CET / 07:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="94d79352bf10dab0ce1608072a8407f8">
+    <title>International Friendly : Vietnam vs Cambodia</title>
+    <desc>05:30 AM PT / 08:30 AM ET / 12:30 PM GMT
+01:30 PM CET / 08:30 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="ea2c439763414108d009c7dd40ab9274">
+    <title>U19 UEFA European Championship : Netherlands vs. Croatia</title>
+    <desc>06:00 AM PT / 09:00 AM ET / 01:00 PM GMT
+02:00 PM CET / 09:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="b41383e7683ef8dae85826b65bb10951">
+    <title>India I-League : Sreenidi Deccan vs Inter Kashi</title>
+    <desc>06:30 AM PT / 09:30 AM ET / 01:30 PM GMT
+02:30 PM CET / 09:30 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="6efa6ea4302a059692636c328f3eae5f">
+    <title>Europe - U19 Euro Qualifying : Germany U19 vs Slovenia U19</title>
+    <desc>07:00 AM PT / 10:00 AM ET / 02:00 PM GMT
+03:00 PM CET / 10:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="101aa55f7c37293a470c4c1bb59e0182">
+    <title>Europe - U19 Euro Qualifying : Poland U19 vs Georgia U19</title>
+    <desc>08:00 AM PT / 11:00 AM ET / 03:00 PM GMT
+04:00 PM CET / 11:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="a2da8eec54f3817f442c942b3338e44f">
+    <title>U19 Euro Qualifying : Israel U19 vs Serbia U19</title>
+    <desc>09:00 AM PT / 12:00 PM ET / 04:00 PM GMT
+05:00 PM CET / 12:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="cb15af6187eee19c175d4585e51b8222">
+    <title>World Cup Qualifying : Liberia vs Tunisia</title>
+    <desc>09:00 AM PT / 12:00 PM ET / 04:00 PM GMT
+05:00 PM CET / 12:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="9e27bc1444dad1c4aa13a356a4f36296">
+    <title>World Cup Qualifying : Central African Republic vs Madagascar</title>
+    <desc>09:00 AM PT / 12:00 PM ET / 04:00 PM GMT
+05:00 PM CET / 12:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="0eb9389a04e0567ec9f586e887ef3435">
+    <title>World Cup Qualifying : Eswatini vs Cameroon</title>
+    <desc>09:00 AM PT / 12:00 PM ET / 04:00 PM GMT
+05:00 PM CET / 12:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="1384434926f01c518342d78142f080c5">
+    <title>WAFF Championship U23 - Gr.B : Bahrain U23 vs EAU U23</title>
+    <desc>09:30 AM PT / 12:30 PM ET / 04:30 PM GMT
+05:30 PM CET / 12:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="1b9f22f575e1cf277d92a38867482f42">
+    <title>Interclub friendly : Schalke vs Groningen</title>
+    <desc>10:00 AM PT / 01:00 PM ET / 05:00 PM GMT
+06:00 PM CET / 01:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="c7500e5a4e7fd3007913dcb1f52fdf16">
+    <title>World - Friendly : Russia vs Grenada</title>
+    <desc>10:00 AM PT / 01:00 PM ET / 05:00 PM GMT
+06:00 PM CET / 01:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="668f53e44981f85b414235f37fe3bf6c">
+    <title>UEFA Women's Champions League : Wolfsburg vs Barcelona</title>
+    <desc>10:45 AM PT / 01:45 PM ET / 05:45 PM GMT
+06:45 PM CET / 01:45 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="d4505952982644ab7358a9685ebdd12a">
+    <title>Brazil - Paulista - Serie A2 - Playoff : Primavera SP vs Santo Andre SP</title>
+    <desc>11:00 AM PT / 02:00 PM ET / 06:00 PM GMT
+07:00 PM CET / 02:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="099801e5783b8842f8db738b8b30fd8d">
+    <title>Club Friendlies : Eintracht Frankfurt vs. Sonnenhof Großaspach</title>
+    <desc>11:00 AM PT / 02:00 PM ET / 06:00 PM GMT
+07:00 PM CET / 02:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="9642fb443b32efcaeb5e7cda07a8e462">
+    <title>Copa Argentina : Aldosivi vs Gimnasia y Tiro</title>
+    <desc>11:45 AM PT / 02:45 PM ET / 06:45 PM GMT
+07:45 PM CET / 02:45 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="d262dbfb5a0ce2bff539722b48c6b8bb">
+    <title>Europe - U19 Euro Qualifying : Hungary U19 vs Austria U19</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="1c8c4e6f2e6ef607cc51f5b98f519cee">
+    <title>Saudi Arabia - SAFF Women's Cup : Al Qadsiah vs Al Ahli</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="1aefd079235a78214083c105ebe0b118">
+    <title>Campeonato Brasileiro De Futebol Sub-20 : Vasco vs Cruzeiro</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="c93d6bf7b6d7bae3eb1f27fd8ff01cd0">
+    <title>UEFA Women's Champions League : Manchester City vs Chelsea FC</title>
+    <desc>01:00 PM PT / 04:00 PM ET / 08:00 PM GMT
+09:00 PM CET / 04:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="a7755e5da7bf316e28ba7e199b64edef">
+    <title>Ecuador - Serie B : Cumbaya FC vs Vinotinto</title>
+    <desc>01:30 PM PT / 04:30 PM ET / 08:30 PM GMT
+09:30 PM CET / 04:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="abdb8b4f9a93a69e206d9d17ebd0c147">
+    <title>Copa Argentina : Talleres Córdoba vs Deportivo Armenio</title>
+    <desc>02:00 PM PT / 05:00 PM ET / 09:00 PM GMT
+10:00 PM CET / 05:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="ee395af8b0b44d6d2e23e07f744eaf66">
+    <title>Copa Do Nordeste : Csa-AL vs Bahia</title>
+    <desc>03:00 PM PT / 06:00 PM ET / 10:00 PM GMT
+11:00 PM CET / 06:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="aa0724c4104691a2bc4d9ed5546acb98">
+    <title>Brazil - Paulista - Serie A2 - Playoff : Capivariano vs XV de Piracicaba</title>
+    <desc>03:00 PM PT / 06:00 PM ET / 10:00 PM GMT
+11:00 PM CET / 06:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="eab4cb5c4f5a695c78c17dc07b0f11fe">
+    <title>Brazil - Paulista - Serie A2 - Playoff : Ituano vs Ferroviaria SP</title>
+    <desc>03:00 PM PT / 06:00 PM ET / 10:00 PM GMT
+11:00 PM CET / 06:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="05b91502ccd4841db8893b2d9288a4ff">
+    <title>Brazil - Paranaense - Division I - Playoff : Athletico PR vs Maringa</title>
+    <desc>04:00 PM PT / 07:00 PM ET / 11:00 PM GMT
+12:00 AM CET / 07:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="2dfdc0596e2bf80469d8399eb5e544a4">
+    <title>Brazil - Paulista - Serie A2 - Playoff : Taubate vs Sao Jose SP</title>
+    <desc>04:00 PM PT / 07:00 PM ET / 11:00 PM GMT
+12:00 AM CET / 07:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="5f6455ebd8dc329b827a3b73682ed7a2">
+    <title>Colombia - Primera A : Rionegro Águilas vs América de Cali</title>
+    <desc>04:30 PM PT / 07:30 PM ET / 11:30 PM GMT
+12:30 AM CET / 07:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="777104b334a68bf0667c65a26ec5d0e1">
+    <title>USL Super League Soccer : Dallas Trinity FC vs Brooklyn FC</title>
+    <desc>04:30 PM PT / 07:30 PM ET / 11:30 PM GMT
+12:30 AM CET / 07:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="23801a5b353b8e14380b9c3c9f358266">
+    <title>Colombia - Primera A - Apertura : Independiente Santa Fe vs Atletico Bucaramanga</title>
+    <desc>04:30 PM PT / 07:30 PM ET / 11:30 PM GMT
+12:30 AM CET / 07:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="2d9c3b582c49a199a9ce47d365efa966">
+    <title>Ecuador - Serie B : Gualaceo vs Chacaritas</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="c7bae5c4000c418fb36a1a35973d2735">
+    <title>Copa Argentina : River Plate vs Ciudad de Bolívar</title>
+    <desc>05:15 PM PT / 08:15 PM ET / 12:15 AM GMT
+01:15 AM CET / 08:15 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="4e3bcd1ea52d7746dfb743d57b9fecca">
+    <title>Copa do Nordeste : Vitória vs Sport Recife</title>
+    <desc>05:30 PM PT / 08:30 PM ET / 12:30 AM GMT
+01:30 AM CET / 08:30 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="a38059a9cbe00f216d696ab627572c5b">
+    <title>Mexico - League de Expansion MX - Clausura : CD Tapatio vs Atlante</title>
+    <desc>06:00 PM PT / 09:00 PM ET / 01:00 AM GMT
+02:00 AM CET / 09:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="708ddfec306fc622694cf11693853fd6">
+    <title>Colombia - Primera A : Atlético Nacional vs Deportes Tolima</title>
+    <desc>06:30 PM PT / 09:30 PM ET / 01:30 AM GMT
+02:30 AM CET / 09:30 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="8da64f0d10146352d7bba6fc15f491c1">
+    <title>Costa Rica - League de Ascenso - Clausura - Gr.1 : AD Municipal Greece vs Quepos Cambute</title>
+    <desc>07:00 PM PT / 10:00 PM ET / 02:00 AM GMT
+03:00 AM CET / 10:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="e305c0e492ac5bbac4a66ceefe9eeb3f">
+    <title>ATP and WTA 1000 Miami</title>
+    <desc>08:00 AM PT / 11:00 AM ET / 03:00 PM GMT
+04:00 PM CET / 11:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="dc7dc02ca5df61bd74594b595e60adea">
+    <title>UTR (M) - Dubai (EAU) : Alexander Zgirovsky vs Igor Kolaric</title>
+    <desc>10:00 PM PT / 01:00 AM ET / 05:00 AM GMT
+06:00 AM CET / 01:00 PM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="148582fece621e04f261b4b581202700">
+    <title>UTR (M) - Dubai (EAU) : Teodor Giusca vs Stijn Pel</title>
+    <desc>10:00 PM PT / 01:00 AM ET / 05:00 AM GMT
+06:00 AM CET / 01:00 PM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="0400ec122ef564c224754b12d64bddcd">
+    <title>UTR (M) - Dubai (EAU) : Joris Moret vs Valentin Vanta</title>
+    <desc>11:10 PM PT / 02:10 AM ET / 06:10 AM GMT
+07:10 AM CET / 02:10 PM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="f832a80bf10c01d1449e26cc78a7d519">
+    <title>UTR (M) - Dubai (EAU) : Yizhou Liu vs Janos Fekete</title>
+    <desc>11:10 PM PT / 02:10 AM ET / 06:10 AM GMT
+07:10 AM CET / 02:10 PM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="d64fd8c920d44c3e75e545057c382893">
+    <title>UTR (M) - Dubai (EAU) : Viktor Jovic vs Stepan Baum</title>
+    <desc>11:30 PM PT / 02:30 AM ET / 06:30 AM GMT
+07:30 AM CET / 02:30 PM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="4e1aa36bbf825b2f9258108acc396a83">
+    <title>UTR (M) - Dubai (EAU) : Freddie Ridout vs Michalis Sakellaridis</title>
+    <desc>12:30 AM PT / 03:30 AM ET / 07:30 AM GMT
+08:30 AM CET / 03:30 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="b91d34efe51b5e776027aa553f6cc323">
+    <title>UTR (M) - Dubai (EAU) : Samuil Konov vs Ronetto Van Tilburg</title>
+    <desc>12:30 AM PT / 03:30 AM ET / 07:30 AM GMT
+08:30 AM CET / 03:30 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="cd7ca84b3a28633cac4627b96e222f4c">
+    <title>UTR (M) - Dubai (EAU) : David C.Carteputreda vs Daniel Siniakov</title>
+    <desc>12:40 AM PT / 03:40 AM ET / 07:40 AM GMT
+08:40 AM CET / 03:40 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="bd7b670d5641757c22baabe011f13838">
+    <title>WTA 125 - Antalya (TUR) : Clara Burel vs Nuria Parrizas Diaz</title>
+    <desc>01:05 AM PT / 04:05 AM ET / 08:05 AM GMT
+09:05 AM CET / 04:05 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="d76a573966efef334e9cea3a8549e071">
+    <title>WTA 125 - Antalya (TUR) : Elena Pridankina vs Darja Semenistaja</title>
+    <desc>01:05 AM PT / 04:05 AM ET / 08:05 AM GMT
+09:05 AM CET / 04:05 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="b2577d9568c3928c5545aeb4059ea605">
+    <title>WTA 125 - Antalya (TUR) : Maja Chwalinska vs Zarina Diyas</title>
+    <desc>01:05 AM PT / 04:05 AM ET / 08:05 AM GMT
+09:05 AM CET / 04:05 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="c7b4ed89b0fc093fbec9afa9af71ec5d">
+    <title>WTA 125 - Antalya (TUR) : Tamara Zidansek vs Noma Akugue Noha</title>
+    <desc>01:05 AM PT / 04:05 AM ET / 08:05 AM GMT
+09:05 AM CET / 04:05 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="d39def43dd56269423a680a4e482286e">
+    <title>Challenger - Murcia (SPA) - Double : A.Chandrasekar/D.Vega Hernandez vs I.Cervantes/S.M.Gornes</title>
+    <desc>02:00 AM PT / 05:00 AM ET / 09:00 AM GMT
+10:00 AM CET / 05:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="1d3028786787c3edba11e7466c565ad4">
+    <title>Challenger - Murcia (SPA) - Double : A.Donski/B.Pujol Navarro vs V.V.Cornea/A.Mies</title>
+    <desc>02:00 AM PT / 05:00 AM ET / 09:00 AM GMT
+10:00 AM CET / 05:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="0477a9941299807382eb6c0edd84bdba">
+    <title>Challenger - Zadar (CRO) - Double : A.Merino/C.Negritu vs D.Svrcina/M.Vrbensky</title>
+    <desc>02:00 AM PT / 05:00 AM ET / 09:00 AM GMT
+10:00 AM CET / 05:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="ff2177c8ea99638562853c32fc1c0864">
+    <title>Challenger - Murcia (SPA) : Albert Ramos Vinolas vs Bernabe Zapata Miralles</title>
+    <desc>02:00 AM PT / 05:00 AM ET / 09:00 AM GMT
+10:00 AM CET / 05:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="8efac60867df9e940ee65dbe3f1a3aba">
+    <title>Challenger - Murcia (SPA) : Andrea Pellegrino vs Jesper de Jong</title>
+    <desc>02:00 AM PT / 05:00 AM ET / 09:00 AM GMT
+10:00 AM CET / 05:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="bc18df49b94558d6df3b4cafc028ca0f">
+    <title>Challenger - Zadar (CRO) : Francesco Maestrelli vs Enrico Dalla Valle</title>
+    <desc>02:00 AM PT / 05:00 AM ET / 09:00 AM GMT
+10:00 AM CET / 05:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="9f1aff9f1f78b6754251332f062f4874">
+    <title>Challenger - Murcia (SPA) - Double : G.Jacq/O.Luz vs B.Hassan/A.Shelbayh</title>
+    <desc>02:00 AM PT / 05:00 AM ET / 09:00 AM GMT
+10:00 AM CET / 05:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="64e432aa7cf764aa4bd6ba257b861838">
+    <title>Challenger - Murcia (SPA) - Double : J.Nedunchezhiyan/V.Prashanth vs J.Ingildsen/D.Stevenson</title>
+    <desc>02:00 AM PT / 05:00 AM ET / 09:00 AM GMT
+10:00 AM CET / 05:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="f388584c212b8911892ca201bd93c6a4">
+    <title>Challenger - Murcia (SPA) : Kyrian Jacquet vs Nicolas Alvarez Varona</title>
+    <desc>02:00 AM PT / 05:00 AM ET / 09:00 AM GMT
+10:00 AM CET / 05:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="d5ef7de8ecd8453bf047ceaae4d8ddf6">
+    <title>Challenger - Murcia (SPA) : Valentin Vacherot vs Raul Brancaccio</title>
+    <desc>02:00 AM PT / 05:00 AM ET / 09:00 AM GMT
+10:00 AM CET / 05:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="bc9e6f84b4919c103f233170017f2a31">
+    <title>Challenger - Zadar (CRO) : Zsombor Piros vs Jozef Kovalik</title>
+    <desc>02:00 AM PT / 05:00 AM ET / 09:00 AM GMT
+10:00 AM CET / 05:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="b88e20c22844c59647e49f476d461b45">
+    <title>WTA 125 - Antalya (TUR) : Anastasia Zakharova vs Ada Kumru</title>
+    <desc>03:00 AM PT / 06:00 AM ET / 10:00 AM GMT
+11:00 AM CET / 06:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="4f0ad129a613a3a2e5f385d3592caac4">
+    <title>WTA 125 - Antalya (TUR) : Sijia Wei vs Leyre Romero Gormaz</title>
+    <desc>03:00 AM PT / 06:00 AM ET / 10:00 AM GMT
+11:00 AM CET / 06:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="78cbec9b7c1dc4128f8bc0784fdc6343">
+    <title>WTA 125 - Antalya (TUR) : Veronika Erjavec vs Diane Parry</title>
+    <desc>03:00 AM PT / 06:00 AM ET / 10:00 AM GMT
+11:00 AM CET / 06:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="14f24fd39f0ed4731b46f7403531dd81">
+    <title>Challenger - Zadar (CRO) : Damir Dzumhur vs Zdenek Kolar</title>
+    <desc>03:10 AM PT / 06:10 AM ET / 10:10 AM GMT
+11:10 AM CET / 06:10 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="81d39677445697d9474e776da43e05ca">
+    <title>Challenger - Zadar (CRO) : Nerman Fatic vs Carlos Sanchez Jover</title>
+    <desc>03:10 AM PT / 06:10 AM ET / 10:10 AM GMT
+11:10 AM CET / 06:10 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="a4f55451c151b249836a4fbd7b9ffee3">
+    <title>Challenger - Murcia (SPA) : Daniel Rincon vs Gabriele Pennaforti</title>
+    <desc>03:35 AM PT / 06:35 AM ET / 10:35 AM GMT
+11:35 AM CET / 06:35 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="f128711f3b4b3679ede88d1dce3f6b12">
+    <title>Challenger - Murcia (SPA) : Denis Yevseyev vs Justin Engel</title>
+    <desc>03:45 AM PT / 06:45 AM ET / 10:45 AM GMT
+11:45 AM CET / 06:45 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="330a4a0bb1eb874d131bde0d3caf6ea1">
+    <title>Challenger - Murcia (SPA) : Pablo Llamas Ruiz vs Sumit Nagal</title>
+    <desc>04:05 AM PT / 07:05 AM ET / 11:05 AM GMT
+12:05 PM CET / 07:05 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="c2d8737403acd4a28fa59e67e6041e14">
+    <title>Challenger - Murcia (SPA) : Elmer Moller vs Miguel Damas</title>
+    <desc>04:10 AM PT / 07:10 AM ET / 11:10 AM GMT
+12:10 PM CET / 07:10 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="e2dad32739229a912a82989187b80026">
+    <title>Challenger - Zadar (CRO) - Double : M.Cecchinato/E.Dalla Valle vs F.Agamenone/L.Pavlovic</title>
+    <desc>04:20 AM PT / 07:20 AM ET / 11:20 AM GMT
+12:20 PM CET / 07:20 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="8c7980dd5e12567ebbdb9e00c1f0e60d">
+    <title>Challenger - Zadar (CRO) - Double : V.Kopriva/D.Michalski vs M.A.Jecan/F.C.Jianu</title>
+    <desc>04:20 AM PT / 07:20 AM ET / 11:20 AM GMT
+12:20 PM CET / 07:20 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="dff1aa3d36d2c01039ea05e52348f9f1">
+    <title>Challenger - Zadar (CRO) : Valentin Royer vs Dino Prizmic</title>
+    <desc>04:20 AM PT / 07:20 AM ET / 11:20 AM GMT
+12:20 PM CET / 07:20 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="49771d7d292cc26bf72c84488776c867">
+    <title>WTA 125 - Antalya (TUR) : Emiliana Arango vs Chloe Paquet</title>
+    <desc>05:00 AM PT / 08:00 AM ET / 12:00 PM GMT
+01:00 PM CET / 08:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="071c3a5809e255809c9e55cac458316a">
+    <title>Challenger - Zadar (CRO) - Double : C.J.Lock/O.Ovcharenko vs L.Mikrut/M.Poljicak</title>
+    <desc>05:30 AM PT / 08:30 AM ET / 12:30 PM GMT
+01:30 PM CET / 08:30 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="8dbc812599b92315990f6c34ac4e53c2">
+    <title>Challenger - Zadar (CRO) - Double : De.Molchanov/M.Veldheer vs P.Cachin/T.Skatov</title>
+    <desc>05:30 AM PT / 08:30 AM ET / 12:30 PM GMT
+01:30 PM CET / 08:30 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="f4d0741fbbbb87e3f455eef3d2b13324">
+    <title>Challenger - Murcia (SPA) : Daniel Merida Aguilar vs Marin Cilic</title>
+    <desc>06:00 AM PT / 09:00 AM ET / 01:00 PM GMT
+02:00 PM CET / 09:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="a1b6f6520b6e4f83715f2fb055805445">
+    <title>Challenger - Murcia (SPA) - Double : J.de Jong/M.Hermans vs S.Ofner/B.Zapata Miralles</title>
+    <desc>06:00 AM PT / 09:00 AM ET / 01:00 PM GMT
+02:00 PM CET / 09:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="5ef556b33e30c2edb6302e64b8e6afe6">
+    <title>Challenger - Murcia (SPA) - Double : N.Alvarez Varona/C.Taberner vs R.Arneodo/M.Guinard</title>
+    <desc>06:00 AM PT / 09:00 AM ET / 01:00 PM GMT
+02:00 PM CET / 09:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="b0acb17e0157c3aba5baa0d8a283d28c">
+    <title>Challenger - Murcia (SPA) - Double : R.Brancaccio/A.Pellegrino vs D.Cukierman/J.Paris</title>
+    <desc>06:00 AM PT / 09:00 AM ET / 01:00 PM GMT
+02:00 PM CET / 09:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="3004107073dcee2ddf03e15c171f40dd">
+    <title>ITF (M) - Badalona (SPA) - Double : M.Alcala Gurri/D.Naharro vs A.Herberg Amoros/A.Marti Pujolras</title>
+    <desc>07:00 AM PT / 10:00 AM ET / 02:00 PM GMT
+03:00 PM CET / 10:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="7da2568287033083b8c166a4f610627b">
+    <title>Challenger - Murcia (SPA) - Double : E.Butvilas/R.Ramanathan vs J.Barranco Cosano/B.Winter Lopez</title>
+    <desc>07:10 AM PT / 10:10 AM ET / 02:10 PM GMT
+03:10 PM CET / 10:10 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="3964cda0cf2257333e4fb133a594e090">
+    <title>ATP - Miami (USA) : Aleksandar Vukic vs David Goffin</title>
+    <desc>08:00 AM PT / 11:00 AM ET / 03:00 PM GMT
+04:00 PM CET / 11:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="4c5c54ad64096873b8f2d11a4e391605">
+    <title>ATP - Miami (USA) : Alexander Bublik vs Sebastian Baez</title>
+    <desc>08:00 AM PT / 11:00 AM ET / 03:00 PM GMT
+04:00 PM CET / 11:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="405620a9900a1d5a15f88544ecbc2214">
+    <title>ATP - Miami (USA) : Rinky Hijikata vs Hamad Medjedovic</title>
+    <desc>08:00 AM PT / 11:00 AM ET / 03:00 PM GMT
+04:00 PM CET / 11:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="55bf25785735830c4b1563db2d453fb0">
+    <title>ATP - Miami (USA) : Chun Hsin Tseng vs Mattia Bellucci</title>
+    <desc>09:10 AM PT / 12:10 PM ET / 04:10 PM GMT
+05:10 PM CET / 12:10 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="af878b69eabeda7745de657b9ead6b17">
+    <title>ATP - Miami (USA) : Francisco Comesana vs Federico Cina</title>
+    <desc>09:10 AM PT / 12:10 PM ET / 04:10 PM GMT
+05:10 PM CET / 12:10 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="90cd671dc8b928c90baaf5cdc51607b3">
+    <title>ATP - Miami (USA) : Tristan Schoolkate vs Ethan Quinn</title>
+    <desc>09:10 AM PT / 12:10 PM ET / 04:10 PM GMT
+05:10 PM CET / 12:10 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="2312d428a4161f4ef335e1b405c8072b">
+    <title>Challenger - Asuncion (PRY) - Double : C.Rodriguez/M.Zormann vs V.Aboian/I.Carou</title>
+    <desc>10:00 AM PT / 01:00 PM ET / 05:00 PM GMT
+06:00 PM CET / 01:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="9cdbaeb29be4a4433fd87ddc07ff5c4a">
+    <title>Challenger - Asuncion (PRY) : Conner Huertas Del Pino vs Matias Soto</title>
+    <desc>10:00 AM PT / 01:00 PM ET / 05:00 PM GMT
+06:00 PM CET / 01:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="f90bf6c4c31608a0b5576a95b9765357">
+    <title>Challenger - Asuncion (PRY) : Mariano Kestelboim vs Gustavo R.de Almeida</title>
+    <desc>10:00 AM PT / 01:00 PM ET / 05:00 PM GMT
+06:00 PM CET / 01:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="8acbcd87331003118d156f55762e77ca">
+    <title>ATP - Miami (USA) : Gael Monfils vs Fabian Marozsan</title>
+    <desc>10:10 AM PT / 01:10 PM ET / 05:10 PM GMT
+06:10 PM CET / 01:10 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="17164b5906a8ec0225807c96f547bab1">
+    <title>ATP - Miami (USA) : Alexander Blockx vs Corentin Moutet</title>
+    <desc>10:20 AM PT / 01:20 PM ET / 05:20 PM GMT
+06:20 PM CET / 01:20 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="a55c0cbbd56df69c8e51f98d8eb7e34f">
+    <title>ATP - Miami (USA) : Camilo Ugo Carabelli vs Brandon Holt</title>
+    <desc>10:20 AM PT / 01:20 PM ET / 05:20 PM GMT
+06:20 PM CET / 01:20 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="4dbfe4fcf712ac8d02e6d972d803a77e">
+    <title>ATP - Miami (USA) : Christopher O'Connell vs Roberto Carballes Baena</title>
+    <desc>10:20 AM PT / 01:20 PM ET / 05:20 PM GMT
+06:20 PM CET / 01:20 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="d482a9dc27f975beb7abf7c33cb00d2b">
+    <title>Challenger - Asuncion (PRY) : Benjamin Torrealba vs Daniel Elahi Galan</title>
+    <desc>11:10 AM PT / 02:10 PM ET / 06:10 PM GMT
+07:10 PM CET / 02:10 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="814e0c7f6b92e255aad492a74aa25a2d">
+    <title>Challenger - Asuncion (PRY) : Franco Roncadelli vs Igor Gimenez</title>
+    <desc>11:10 AM PT / 02:10 PM ET / 06:10 PM GMT
+07:10 PM CET / 02:10 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="39d6ef12e6c7db14f85e216ef194bc4b">
+    <title>ATP - Miami (USA) : Mackenzie McDonald vs Nick Kyrgios</title>
+    <desc>11:20 AM PT / 02:20 PM ET / 06:20 PM GMT
+07:20 PM CET / 02:20 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="e7c8061e49cdda22775d573af95e317c">
+    <title>ATP - Miami (USA) : Alexandre Muller vs Rei Sakamoto</title>
+    <desc>11:30 AM PT / 02:30 PM ET / 06:30 PM GMT
+07:30 PM CET / 02:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="cf9fadeba514a6bc7ec8f2a5e5a863a0">
+    <title>ATP - Miami (USA) : Aleksandar Kovacevic vs Miomir Kecmanovic</title>
+    <desc>12:10 PM PT / 03:10 PM ET / 07:10 PM GMT
+08:10 PM CET / 03:10 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="061ef86d87f6f4e33687753408d70e79">
+    <title>Challenger - Asuncion (PRY) : Lorenzo Joaquin Rodriguez vs Emilio Nava</title>
+    <desc>12:20 PM PT / 03:20 PM ET / 07:20 PM GMT
+08:20 PM CET / 03:20 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="6b8305daac7bfc21018cbc086f478b90">
+    <title>Challenger - Asuncion (PRY) - Double : V.Kirkov/M.Soto vs A.Baez/A.S.Nunez Vera</title>
+    <desc>12:20 PM PT / 03:20 PM ET / 07:20 PM GMT
+08:20 PM CET / 03:20 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="800ad8d054cae448c1fb408d9b62d1f0">
+    <title>ATP - Miami (USA) : Arthur Rinderknech vs Jaume Munar</title>
+    <desc>01:20 PM PT / 04:20 PM ET / 08:20 PM GMT
+09:20 PM CET / 04:20 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="3b26c4a26955402699f64de9ba8ae66c">
+    <title>Challenger - Asuncion (PRY) - Double : A.Guillen Meza/G.I.Justo vs B.Arias/F.Zeballos</title>
+    <desc>01:30 PM PT / 04:30 PM ET / 08:30 PM GMT
+09:30 PM CET / 04:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="ddc850ff4dfdbc60b9f2352fef3a082c">
+    <title>Challenger - Asuncion (PRY) - Double : R.Bertola/G.Roveri Sidney vs P.B.Dias/J.L.R.Silva</title>
+    <desc>01:30 PM PT / 04:30 PM ET / 08:30 PM GMT
+09:30 PM CET / 04:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="a2dc83f699bdf39925dd7ecd6fa86248">
+    <title>Challenger - Merida (MEX) - Double : A.Andrade/M.Kiger vs G.Goldhoff/T.Hilderbrand</title>
+    <desc>02:00 PM PT / 05:00 PM ET / 09:00 PM GMT
+10:00 PM CET / 05:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="ac2f0bf0892c0002fadcd5d4c9b0a0a5">
+    <title>Challenger - Merida (MEX) : Garrett Johns vs Enzo Couacaud</title>
+    <desc>02:00 PM PT / 05:00 PM ET / 09:00 PM GMT
+10:00 PM CET / 05:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="cd7eddb935e2b08892daaf50df66c9aa">
+    <title>Challenger - Merida (MEX) : Renzo Olivo vs Bernard Tomic</title>
+    <desc>02:00 PM PT / 05:00 PM ET / 09:00 PM GMT
+10:00 PM CET / 05:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="1d5e5ff0088abf6f53571a2425cd75a7">
+    <title>Challenger - Asuncion (PRY) : Felix Corwin vs Tomas Barrios Vera</title>
+    <desc>02:30 PM PT / 05:30 PM ET / 09:30 PM GMT
+10:30 PM CET / 05:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="a574b6a606fe2c716809c3b34a14dbeb">
+    <title>Challenger - Asuncion (PRY) - Double : G.Duran/M.Kestelboim vs S.Watanabe/T.Yuzuki</title>
+    <desc>02:40 PM PT / 05:40 PM ET / 09:40 PM GMT
+10:40 PM CET / 05:40 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="713dfd4157725a4c254ac354c5b266f8">
+    <title>Challenger - Merida (MEX) : Hugo Dellien vs Joshua Sheehy</title>
+    <desc>03:10 PM PT / 06:10 PM ET / 10:10 PM GMT
+11:10 PM CET / 06:10 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="20887fd4efab6929378e23682e59b937">
+    <title>Challenger - Merida (MEX) - Double : I.Marrero Curbelo/A.F.Rubio Fierros vs T.Whiting/E.Zhu</title>
+    <desc>03:10 PM PT / 06:10 PM ET / 10:10 PM GMT
+11:10 PM CET / 06:10 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="d54ce7f65db68e3e85a0b09f96bc5f94">
+    <title>Challenger - Asuncion (PRY) - Double : M.Dellien/D.E.Galan vs H.J.Escurra Isnardi/M.V.Del Puerto</title>
+    <desc>03:40 PM PT / 06:40 PM ET / 10:40 PM GMT
+11:40 PM CET / 06:40 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="dcdf7961d8000933a1579c4a9cb6beab">
+    <title>ATP - Miami (USA) : Eliot Spizzirri vs Billy Harris</title>
+    <desc>04:00 PM PT / 07:00 PM ET / 11:00 PM GMT
+12:00 AM CET / 07:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="71842ad56fa2fa14416e5ac0af5ed192">
+    <title>Challenger - Merida (MEX) - Double : E.Couacaud/R.Olivo vs A.Hernandez/D.Moreno</title>
+    <desc>04:20 PM PT / 07:20 PM ET / 11:20 PM GMT
+12:20 AM CET / 07:20 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="ff0b604fa35e3155296671fb36f5b3e6">
+    <title>Challenger - Merida (MEX) - Double : D.Hidalgo/R.Stalder vs K.Feldbausch/R.Pacheco Mendez</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="a9dd637054d1e6180a055b9f4ac407d2">
+    <title>Challenger - Merida (MEX) - Double : R.Ho/J.Sheehy vs P.Maloney/B.Sigouin</title>
+    <desc>05:30 PM PT / 08:30 PM ET / 12:30 AM GMT
+01:30 AM CET / 08:30 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="767342cebedb27891b1433953ed1c78b">
+    <title>ATP - Miami (USA) : Thiago Seyboth Wild vs Quentin Halys</title>
+    <desc>05:30 PM PT / 08:30 PM ET / 12:30 AM GMT
+01:30 AM CET / 08:30 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="d39d6d90a70caff46b6ea0f5523f3605">
+    <title>Challenger - Merida (MEX) : Juan Pablo Ficovich vs Tyler Zink</title>
+    <desc>07:00 PM PT / 10:00 PM ET / 02:00 AM GMT
+03:00 AM CET / 10:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="9284dfcebc5f8de076ffa25113e060b0">
+    <title>FIA World Rally Championship: Safari Rally</title>
+    <desc>12:00 AM PT / 03:00 AM ET / 07:00 AM GMT
+08:00 AM CET / 03:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="c5859f7bcc12f51550055536aca6d80f">
+    <title>All Elite Wrestling: Dynamite</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="d8bda781589c1a0ee3edf3b30357fe1f">
+    <title>Live Players Championship - Telford, England</title>
+    <desc>06:00 AM PT / 09:00 AM ET / 01:00 PM GMT
+02:00 PM CET / 09:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="e46154760a413b87e4f52ed5b8d26041">
+    <title>Players Championship : John Higgins vs Chris Wakelin</title>
+    <desc>06:00 AM PT / 09:00 AM ET / 01:00 PM GMT
+02:00 PM CET / 09:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="70d1b939e3fd7525efeb01b80723711f">
+    <title>Players Championship : Xiao Guodong vs Wu Yize</title>
+    <desc>06:00 AM PT / 09:00 AM ET / 01:00 PM GMT
+02:00 PM CET / 09:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="058154d4989f0b5d1718a6c3e9a5a6ac">
+    <title>Players Championship : Mark Williams vs Kyren Wilson</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="d8bda781589c1a0ee3edf3b30357fe1f">
+    <title>Live Players Championship - Telford, England</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="3ffa3e4c7db8cb6ac9e51d99b2241e2e">
+    <title>College Softball : Florida State vs Alabama</title>
+    <desc>04:00 PM PT / 07:00 PM ET / 11:00 PM GMT
+12:00 AM CET / 07:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="2edfa87e1d09e9e55b35e1ffa3aee4bd">
+    <title>College Softball : Liberty vs North Carolina (Chapel Hill)</title>
+    <desc>04:00 PM PT / 07:00 PM ET / 11:00 PM GMT
+12:00 AM CET / 07:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="a7fb21a6b1f140d9929ba9d55fac009c">
+    <title>MLB : Chicago Cubs vs Los Angeles Dodgers</title>
+    <desc>03:10 AM PT / 06:10 AM ET / 10:10 AM GMT
+11:10 AM CET / 06:10 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="b50d46763e741f49b345d84caee8b119">
+    <title>MLB : Pittsburgh Pirates vs Philadelphia Phillies</title>
+    <desc>10:05 AM PT / 01:05 PM ET / 05:05 PM GMT
+06:05 PM CET / 01:05 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="7f85740c8f85f26811cf506860bf4b23">
+    <title>MLB : New York Yankees vs Philadelphia Phillies</title>
+    <desc>10:05 AM PT / 01:05 PM ET / 05:05 PM GMT
+06:05 PM CET / 01:05 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="26f8b373bfd78ad4f169ce91e6977225">
+    <title>MLB : Detroit Tigers at Boston Red Sox</title>
+    <desc>10:05 AM PT / 01:05 PM ET / 05:05 PM GMT
+06:05 PM CET / 01:05 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="bea44cee0d2d39476e092eb5611fee0a">
+    <title>MLB : Washington Nationals vs St. Louis Cardinals</title>
+    <desc>10:05 AM PT / 01:05 PM ET / 05:05 PM GMT
+06:05 PM CET / 01:05 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="d3d8b1a300f4c6662bf6a5fcdd21f46e">
+    <title>MLB : MLB Baseball Athletics vs Cleveland Guardians</title>
+    <desc>01:05 PM PT / 04:05 PM ET / 08:05 PM GMT
+09:05 PM CET / 04:05 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="ae29b78466b2d3df567f2aceac356030">
+    <title>MLB : Washington Nationals vs Houston Astros</title>
+    <desc>03:05 PM PT / 06:05 PM ET / 10:05 PM GMT
+11:05 PM CET / 06:05 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="288881d4312a033d07d6b5da62cad525">
+    <title>MLB : Atlanta Braves vs New York Yankees</title>
+    <desc>03:35 PM PT / 06:35 PM ET / 10:35 PM GMT
+11:35 PM CET / 06:35 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="c87388e6d383b12182e57fd634fbd20c">
+    <title>MLB : San Francisco Giants vs Kansas City Royals</title>
+    <desc>06:05 PM PT / 09:05 PM ET / 01:05 AM GMT
+02:05 AM CET / 09:05 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="f864a640c48871b9ea6d2cfd373e01bc">
+    <title>New Zealand - NBL : Whai vs Otago Nuggets</title>
+    <desc>11:00 PM PT / 02:00 AM ET / 06:00 AM GMT
+07:00 AM CET / 02:00 PM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="581d9b5ff70fda73b396edfafc5f0739">
+    <title>NBL : Melbourne United vs Illawarra Hawks</title>
+    <desc>01:30 AM PT / 04:30 AM ET / 08:30 AM GMT
+09:30 AM CET / 04:30 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="23dd5ac555e44e673e668a3750bc59f9">
+    <title>Asia Cup : Chinese Taipei vs Guam</title>
+    <desc>04:00 AM PT / 07:00 AM ET / 11:00 AM GMT
+12:00 PM CET / 07:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="e6004036205a17b81f5f404f5644baad">
+    <title>China - CBA : Beijing Ducks vs Jilin</title>
+    <desc>04:35 AM PT / 07:35 AM ET / 11:35 AM GMT
+12:35 PM CET / 07:35 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="4c7a089a5efe110482a0a11a9940262a">
+    <title>China - CBA : Fujian Sturgeons vs Beijing Royal Fighters</title>
+    <desc>04:35 AM PT / 07:35 AM ET / 11:35 AM GMT
+12:35 PM CET / 07:35 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="3474a3f64a148c014b261e3ab14aeec2">
+    <title>China - CBA : Liaoning Flying Leopards vs Shenzhen Leopards</title>
+    <desc>04:35 AM PT / 07:35 AM ET / 11:35 AM GMT
+12:35 PM CET / 07:35 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="a9ebf63dddf3ee8bd51ca86e2271f01c">
+    <title>China - CBA : Ningbo Rockets vs Shanghai Sharks</title>
+    <desc>04:35 AM PT / 07:35 AM ET / 11:35 AM GMT
+12:35 PM CET / 07:35 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="b0dfa30d614abd2f76c50f311a340be5">
+    <title>China - CBA : Qingdao Eagles vs Jiangsu Dragons</title>
+    <desc>04:35 AM PT / 07:35 AM ET / 11:35 AM GMT
+12:35 PM CET / 07:35 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="ceac20b7c6a3112c5c556a7fc0b43d86">
+    <title>China - CBA : Shandong Heroes vs Guangzhou Loong Lions</title>
+    <desc>04:35 AM PT / 07:35 AM ET / 11:35 AM GMT
+12:35 PM CET / 07:35 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="77cd355534613ce47d10b2d6a4d5caca">
+    <title>Russia United League : Parma Permsky Kray vs MBA-MAI Moscow</title>
+    <desc>07:30 AM PT / 10:30 AM ET / 02:30 PM GMT
+03:30 PM CET / 10:30 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="cf6601f2ae9d39f79fff6d097fab8ce8">
+    <title>Russia United League : Uralmash Yekaterinburg vs UNICS Kazan</title>
+    <desc>08:00 AM PT / 11:00 AM ET / 03:00 PM GMT
+04:00 PM CET / 11:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="7263863debca2f408f2fd2cd58e71ed1">
+    <title>Romania Liga Nationala : CS Valcea 1924 Rm Valcea vs. CSM CSU Oradea</title>
+    <desc>09:00 AM PT / 12:00 PM ET / 04:00 PM GMT
+05:00 PM CET / 12:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="0ba16e58f4b35ac66937da02a4717c43">
+    <title>Finland - Korisliga - Winners' Tour : Helsinki vs Kataja</title>
+    <desc>09:30 AM PT / 12:30 PM ET / 04:30 PM GMT
+05:30 PM CET / 12:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="6f875464f3da390beb236f236324f241">
+    <title>Finland - Korisliga - The losers' tour : Honka vs Nokia</title>
+    <desc>09:30 AM PT / 12:30 PM ET / 04:30 PM GMT
+05:30 PM CET / 12:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="0fed8d316e7c2881d52833285f478ab3">
+    <title>Finland - Korisliga - Winners' Tour : Kauhajoen Karhu vs Salon Vilpas</title>
+    <desc>09:30 AM PT / 12:30 PM ET / 04:30 PM GMT
+05:30 PM CET / 12:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="1bb25a5ccfaf5ae528569a3c3e88ad8c">
+    <title>Finland - Korisliga - The losers' tour : KTP Kotka vs Korikobrat</title>
+    <desc>09:30 AM PT / 12:30 PM ET / 04:30 PM GMT
+05:30 PM CET / 12:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="b5bac81a41a4f3b4ead02ef8d20c6eb7">
+    <title>Finland - Korisliga - The losers' tour : Pyrinto Tampere vs Kouvot Kouvola</title>
+    <desc>09:30 AM PT / 12:30 PM ET / 04:30 PM GMT
+05:30 PM CET / 12:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="6ae5f299fec989084e980549936ed0cb">
+    <title>Finland - Korisliga - Winners' Tour : UU-Korihait vs LoKoKo Bisons</title>
+    <desc>09:30 AM PT / 12:30 PM ET / 04:30 PM GMT
+05:30 PM CET / 12:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="13269b50db83417066b6dd3a4bed03d7">
+    <title>Russia United League : Pari Nizhny Novgorod vs Zenit St. Petersburg</title>
+    <desc>09:30 AM PT / 12:30 PM ET / 04:30 PM GMT
+05:30 PM CET / 12:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="398415d9851969c903ff7acbb496bec0">
+    <title>NBA G-League : Salt Lake City Stars vs Mexico City Capitanes</title>
+    <desc>09:30 AM PT / 12:30 PM ET / 04:30 PM GMT
+05:30 PM CET / 12:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="5fbf4ac24aa85c01c4116d6a6371b5a3">
+    <title>ABA Liga 2 : Kk Cedevita Zagreb Junior vs. KD Ilirija</title>
+    <desc>10:00 AM PT / 01:00 PM ET / 05:00 PM GMT
+06:00 PM CET / 01:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="60dbb7f466def7639d031fa55e1417ff">
+    <title>Champions League : Petkim Spor vs Tenerife</title>
+    <desc>10:00 AM PT / 01:00 PM ET / 05:00 PM GMT
+06:00 PM CET / 01:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="9e1d3ae6c47049a28cc5f55d79bae7fb">
+    <title>NBA G-League : Capital City Go-Go vs Fort Wayne Mad Ants</title>
+    <desc>10:00 AM PT / 01:00 PM ET / 05:00 PM GMT
+06:00 PM CET / 01:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="7afd0d28eb7983c6665416d7c661fbc6">
+    <title>NBA G-League : Oklahoma City Blue vs Stockton Kings</title>
+    <desc>10:00 AM PT / 01:00 PM ET / 05:00 PM GMT
+06:00 PM CET / 01:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="1de18706466333e9e00b36707814662e">
+    <title>Champions League : Wurzburg vs Prometheus</title>
+    <desc>10:30 AM PT / 01:30 PM ET / 05:30 PM GMT
+06:30 PM CET / 01:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="342501e8678ac38b2d3a1a0ac2582b97">
+    <title>Swiss - LNA : Neuchatel vs BBC Nyon</title>
+    <desc>11:30 AM PT / 02:30 PM ET / 06:30 PM GMT
+07:30 PM CET / 02:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="75bce385e352d47cfccd76d27798a638">
+    <title>Super League : Gilboa Galil vs Hapoel Tel-Aviv</title>
+    <desc>11:35 AM PT / 02:35 PM ET / 06:35 PM GMT
+07:35 PM CET / 02:35 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="c80afd861d8a0f3176da7a6279e930b0">
+    <title>Champions League : Nanterre vs Murcia</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="74ad6d778c63cc950b2c1503942f7526">
+    <title>ABA Liga 2 : KK Bosna Royal Sarajevo vs. Helios Domzale</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="acf24f5ed006d3649329369765ac4b56">
+    <title>Spain: Liga Femenina Women : Cadi La Seu W vs IDK Gipuzkoa W</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="4352f6007688328b5edcb5bf0a37ebdc">
+    <title>NBA G-League : Valley Suns vs Memphis Hustle</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="ef5c1621f9f2ef3ce5d0ffa0218543c5">
+    <title>Champions League : Tortona vs AEK Athens</title>
+    <desc>12:30 PM PT / 03:30 PM ET / 07:30 PM GMT
+08:30 PM CET / 03:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="03d52956e6f07f2c2aefa8e864943b3b">
+    <title>England - SLB : Bristol Flyers vs Caledonia Gladiators</title>
+    <desc>12:30 PM PT / 03:30 PM ET / 07:30 PM GMT
+08:30 PM CET / 03:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="8a35ab5617e0523a571233b563efd307">
+    <title>Italy - Serie A2 : Cividale vs Verona</title>
+    <desc>12:30 PM PT / 03:30 PM ET / 07:30 PM GMT
+08:30 PM CET / 03:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="72ae943d972725bec0ac96f4e21ba550">
+    <title>Italy - Serie A2 : Fortitudo Bologna vs Urania Milano</title>
+    <desc>12:30 PM PT / 03:30 PM ET / 07:30 PM GMT
+08:30 PM CET / 03:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="b8c0de291ce0820f8b3044663590c87f">
+    <title>Italy - Serie A2 : Vigevano vs Orzinuovi</title>
+    <desc>01:00 PM PT / 04:00 PM ET / 08:00 PM GMT
+09:00 PM CET / 04:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="f0c58f52587ba476b0cb00469999a3aa">
+    <title>Brazil - NBB : Minas vs Flamengo</title>
+    <desc>03:00 PM PT / 06:00 PM ET / 10:00 PM GMT
+11:00 PM CET / 06:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="3409d88a202409aa4a7f741cf43dc6ca">
+    <title>College Basketball - March Madness First Four: American University vs Mount St. Mary's</title>
+    <desc>03:40 PM PT / 06:40 PM ET / 10:40 PM GMT
+11:40 PM CET / 06:40 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="30a344d57fd19b2df445ad83fe04b510">
+    <title>NBA G-League : College Park Skyhawks vs Westchester</title>
+    <desc>04:00 PM PT / 07:00 PM ET / 11:00 PM GMT
+12:00 AM CET / 07:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="8ffb67dbe556682965be6ba802c757dd">
+    <title>NBA G-League : Greensboro Swarm vs Motor City Cruise</title>
+    <desc>04:00 PM PT / 07:00 PM ET / 11:00 PM GMT
+12:00 AM CET / 07:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="194bc48b35e6eb33bd9b82db5039c231">
+    <title>Argentina - LLA : Ciclista Juninense vs Atletico Pilar</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="70c3b934321d41d9b534bcb5455da3cc">
+    <title>Argentina - LLA : Villa Mitre de Bahia Blanca vs Gimnasia Y Esgrima</title>
+    <desc>05:10 PM PT / 08:10 PM ET / 12:10 AM GMT
+01:10 AM CET / 08:10 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="f68ced728ab2f20b33ca726c59ffec0b">
+    <title>NBA G-League : Sioux Falls Skyforce vs South Bay Lakers</title>
+    <desc>04:30 PM PT / 07:30 PM ET / 11:30 PM GMT
+12:30 AM CET / 07:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="e718937af0da26a53e5a737329fbc2fe">
+    <title>NCAA Basketball : First Round: TBA vs TBA</title>
+    <desc>06:00 PM PT / 09:00 PM ET / 01:00 AM GMT
+02:00 AM CET / 09:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="cc38ecb0865ee4d041cffa22d3be8b3e">
+    <title>College Basketball - March Madness First Four : Texas vs Xavier</title>
+    <desc>06:10 PM PT / 09:10 PM ET / 01:10 AM GMT
+02:10 AM CET / 09:10 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="432b3700917eeb127596c7a15f010aec">
+    <title>2025 NCAA Women's Basketball Tournament First Four: Iowa State vs Princeton</title>
+    <desc>04:00 PM PT / 07:00 PM ET / 11:00 PM GMT
+12:00 AM CET / 07:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="7b7bbd6e7e691cf43c8a6c8265256d53">
+    <title>2025 NIT Basketball Tournament First Round: Florida Atlantic vs Dayton</title>
+    <desc>04:00 PM PT / 07:00 PM ET / 11:00 PM GMT
+12:00 AM CET / 07:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="f47e86bfaa548ecaa90b6217ac893c78">
+    <title>2025 NCAA Women's Basketball Tournament First Four: Southern vs UC San Diego</title>
+    <desc>06:00 PM PT / 09:00 PM ET / 01:00 AM GMT
+02:00 AM CET / 09:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="97f39fb2c413a220f106dcff255e71dd">
+    <title>2025 NIT Basketball Tournament First Round: Northern Iowa vs SMU</title>
+    <desc>06:00 PM PT / 09:00 PM ET / 01:00 AM GMT
+02:00 AM CET / 09:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="5911d2f89d9d202f9fb11ca2450b96a8">
+    <title>2025 NIT Basketball Tournament First Round: Utah Valley vs San Francisco</title>
+    <desc>08:00 PM PT / 11:00 PM ET / 03:00 AM GMT
+04:00 AM CET / 11:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="851da15e3e982eea6451dd15a386e73e">
+    <title>2025 NIT Basketball Tournament First Round: Loyola-Chicago vs San Jose State</title>
+    <desc>08:00 PM PT / 11:00 PM ET / 03:00 AM GMT
+04:00 AM CET / 11:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="9a6f2e578120d65292c8b36f2b031bff">
+    <title>NBA : Dallas Mavericks vs Indiana Pacers</title>
+    <desc>04:00 PM PT / 07:00 PM ET / 11:00 PM GMT
+12:00 AM CET / 07:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="bfd953c7225b6efd24e0f60a5289ba3d">
+    <title>NBA : Houston Rockets vs Orlando Magic</title>
+    <desc>04:00 PM PT / 07:00 PM ET / 11:00 PM GMT
+12:00 AM CET / 07:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="198a331447f3b7014138a340b5607735">
+    <title>NBA : Detroit Pistons vs Miami Heat</title>
+    <desc>04:30 PM PT / 07:30 PM ET / 11:30 PM GMT
+12:30 AM CET / 07:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="a6970043ea9b92285f9bbcb5fc0cd973">
+    <title>NBA : New Orleans Pelicans vs Minnesota Timberwolves</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="1260c00347efc75751780dcf19951138">
+    <title>NBA : Philadelphia 76ers vs Oklahoma City Thunder</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="46edd07e76292d6c3170a6b52d9c36c7">
+    <title>NBA : New York Knicks vs San Antonio Spurs</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="8196227b474b9fdf020460623fab68b4">
+    <title>NBA : Washington Wizards vs Utah Jazz</title>
+    <desc>06:00 PM PT / 09:00 PM ET / 01:00 AM GMT
+02:00 AM CET / 09:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="19207999dd9dbc1520e1292c9d651b96">
+    <title>NBA : Denver Nuggets vs Los Angeles Lakers</title>
+    <desc>07:00 PM PT / 10:00 PM ET / 02:00 AM GMT
+03:00 AM CET / 10:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="a067ec1e155a049808058ef0eb265c80">
+    <title>NBA : Chicago Bulls vs Phoenix Suns</title>
+    <desc>07:00 PM PT / 10:00 PM ET / 02:00 AM GMT
+03:00 AM CET / 10:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="80fe6d973e9a1809c88444bf72398708">
+    <title>NBA : Memphis Grizzlies vs Portland Trail_blazers</title>
+    <desc>07:00 PM PT / 10:00 PM ET / 02:00 AM GMT
+03:00 AM CET / 10:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="5eff419cd1ca4aadb32e420732af29c0">
+    <title>NBA : Cleveland Cavaliers vs Sacramento Kings</title>
+    <desc>07:00 PM PT / 10:00 PM ET / 02:00 AM GMT
+03:00 AM CET / 10:00 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="bd0dc12e040777a6cc5218dc75355cc7">
+    <title>World Surf League: 2025 WSL Championship Tour: MEO Rip Curl Pro Portugal</title>
+    <desc>12:00 AM PT / 03:00 AM ET / 07:00 AM GMT
+08:00 AM CET / 03:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="7e85c22b42434f1a2dd65a574de7599a">
+    <title>PBA Bowling World Series of Bowling XVI, Shark Championship</title>
+    <desc>04:00 PM PT / 07:00 PM ET / 11:00 PM GMT
+12:00 AM CET / 07:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="51e309f4b3ee91e56b043f65db437148">
+    <title>Tallinn | Sprint Freestyle World Cup</title>
+    <desc>10:00 AM PT / 01:00 PM ET / 05:00 PM GMT
+06:00 PM CET / 01:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="ed39cbb2a7c7063b76b4e0d470939b43">
+    <title>Absa Cape Epic '25: Stage 3</title>
+    <desc>11:30 PM PT / 02:30 AM ET / 06:30 AM GMT
+07:30 AM CET / 02:30 PM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="7048ba2d986fcf99158fdf919508f62d">
+    <title>Nokere Koerse Women | Deinze - Nokere (134km)</title>
+    <desc>04:15 AM PT / 07:15 AM ET / 11:15 AM GMT
+12:15 PM CET / 07:15 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="8bb43397252e791bb42246cc7a4f809f">
+    <title>Milano-Torino Men | Rho - Torino (174km)</title>
+    <desc>06:00 AM PT / 09:00 AM ET / 01:00 PM GMT
+02:00 PM CET / 09:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="f03078cb3f2b69782047252d5eb075c6">
+    <title>Nokere Koerse Men | Deinze - Nokere (188km)</title>
+    <desc>08:00 AM PT / 11:00 AM ET / 03:00 PM GMT
+04:00 PM CET / 11:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="8df627970436afce68370a5622bd396a">
+    <title>SuperLiga : Tyumen vs Torpedo</title>
+    <desc>07:00 AM PT / 10:00 AM ET / 02:00 PM GMT
+03:00 PM CET / 10:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="12dff61829eca5c96c2e368935062195">
+    <title>Women's Futsal 2025 World Cup Qualifiers: Portugal vs Sweden</title>
+    <desc>11:00 AM PT / 02:00 PM ET / 06:00 PM GMT
+07:00 PM CET / 02:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="723050c1f95eccc82d1c5943b4bd2cf1">
+    <title>Romania Liga Nationala Women : CS Gloria 2018 Bistrita-Nasaud vs. SCM Ramnicu Valcea</title>
+    <desc>08:30 AM PT / 11:30 AM ET / 03:30 PM GMT
+04:30 PM CET / 11:30 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="01fc0061dc6b00b07f3bd702b96eec5a">
+    <title>Hungarian Cup: 1/4 Final : Veszprem vs Ferencvaros</title>
+    <desc>10:00 AM PT / 01:00 PM ET / 05:00 PM GMT
+06:00 PM CET / 01:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="1f03b1c31bb6110536585274c3f67c49">
+    <title>Spain - ASOBAL : Granollers vs Cuenca</title>
+    <desc>11:00 AM PT / 02:00 PM ET / 06:00 PM GMT
+07:00 PM CET / 02:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="e124099ee0e1434c79e3f22e825bd4dd">
+    <title>Spain - ASOBAL : Bidasoa Irun vs Villa de Aranda</title>
+    <desc>11:30 AM PT / 02:30 PM ET / 06:30 PM GMT
+07:30 PM CET / 02:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="c6aa8ab5f2a69a6d912d776e15968b38">
+    <title>Denmark Handboldligaen : Grindsted GIF vs. Fredericia HK 1990</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="a3465f04e67a0dc102c57521c7acc62e">
+    <title>Spain Asobal : BM Huesca vs. FC Barcelona</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="3210102c7af65ddda69373d5d3456858">
+    <title>LFH Women : Brest Bretagne W vs Besancon W</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="9ba42e32ee7c8a7c28b59ad89aa8f01e">
+    <title>Poland Superliga : KPR Legionowo vs. MKS Kalisz</title>
+    <desc>12:30 PM PT / 03:30 PM ET / 07:30 PM GMT
+08:30 PM CET / 03:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="176ee749e98d9ba6ffc08381ac47b18f">
+    <title>Spain - ASOBAL : Torrelavega vs La Rioja</title>
+    <desc>12:30 PM PT / 03:30 PM ET / 07:30 PM GMT
+08:30 PM CET / 03:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="a9a36a73e887e837c689831990a8d409">
+    <title>Live racing from Haydock and Huntingdon</title>
+    <desc>06:45 AM PT / 09:45 AM ET / 01:45 PM GMT
+02:45 PM CET / 09:45 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="42a3d4aacf3c96864f32615c0bbd69f7">
+    <title>Live racing from Southwell</title>
+    <desc>10:00 AM PT / 01:00 PM ET / 05:00 PM GMT
+06:00 PM CET / 01:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="1d3c2f5d03b68585637e84bf87a79f79">
+    <title>MHL : MHK Dynamo U20 vs Spartak Moscow U20</title>
+    <desc>03:00 AM PT / 06:00 AM ET / 10:00 AM GMT
+11:00 AM CET / 06:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="8476ce671e9099580ea5ed7af9c8718f">
+    <title>KHL : Metallurg Magnitogorsk vs Admiral Vladivostok</title>
+    <desc>07:00 AM PT / 10:00 AM ET / 02:00 PM GMT
+03:00 PM CET / 10:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="82c62b15b9d978d268ec14f91faf8a2d">
+    <title>Czech Republic Extraliga : HC Kometa Brno vs. Energie Karlovy Vary</title>
+    <desc>09:00 AM PT / 12:00 PM ET / 04:00 PM GMT
+05:00 PM CET / 12:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="2e866ddff41b8b9e7fdce64e332d23fb">
+    <title>Poland - PHL - Playoff : GKS Jastrzebie vs GKS Tychy</title>
+    <desc>09:00 AM PT / 12:00 PM ET / 04:00 PM GMT
+05:00 PM CET / 12:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="b95a34ea4e0071360a85a5ce10919d9c">
+    <title>KHL : CSKA Moscow vs. Lokomotiv Yaroslavl</title>
+    <desc>09:30 AM PT / 12:30 PM ET / 04:30 PM GMT
+05:30 PM CET / 12:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="546269c4a47abdea3995e6fc42e98922">
+    <title>Czech - Maxa liga - Playoff : Berani Zlin vs Stadion Litomerice</title>
+    <desc>09:30 AM PT / 12:30 PM ET / 04:30 PM GMT
+05:30 PM CET / 12:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="81fdc844c2db9d044a2e42a068fe1ffb">
+    <title>Slovakia - Extraliga - Playoff : Spisska Nova Ves vs Zvolen</title>
+    <desc>09:30 AM PT / 12:30 PM ET / 04:30 PM GMT
+05:30 PM CET / 12:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="01f8fa0f71b49f5b75f6d5111e69e53e">
+    <title>Czech - Maxa liga - Playoff : VHK Vsetin vs Dukla Jihlava</title>
+    <desc>09:30 AM PT / 12:30 PM ET / 04:30 PM GMT
+05:30 PM CET / 12:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="028f6946faa35e79e14c4236799a8a9a">
+    <title>Slovakia - Extraliga - Playoff : Kosice vs Dukla Trencin</title>
+    <desc>10:00 AM PT / 01:00 PM ET / 05:00 PM GMT
+06:00 PM CET / 01:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="d80bc50fc1862218d116266073ea23a1">
+    <title>Latvia - LHL - Playoff : Zemgale vs Panter</title>
+    <desc>10:00 AM PT / 01:00 PM ET / 05:00 PM GMT
+06:00 PM CET / 01:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="6c53aef109f2eb702e48f2c85535d00f">
+    <title>SHL : HV 71 vs Modo</title>
+    <desc>11:00 AM PT / 02:00 PM ET / 06:00 PM GMT
+07:00 PM CET / 02:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="6602d6390a99260958ff19385de3f754">
+    <title>HockeyAllsvenskan : Sodertalje vs Kalmar</title>
+    <desc>11:00 AM PT / 02:00 PM ET / 06:00 PM GMT
+07:00 PM CET / 02:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="822b85e6142d3c804156c7bc8e329ec7">
+    <title>HockeyAllsvenskan : IF Bjorkloven vs AIK</title>
+    <desc>11:00 AM PT / 02:00 PM ET / 06:00 PM GMT
+07:00 PM CET / 02:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="255ff897fb44d62c83883bea37c811cf">
+    <title>Norway - EHL - Playoff : Frisk Asker vs Stavanger Oilers</title>
+    <desc>11:00 AM PT / 02:00 PM ET / 06:00 PM GMT
+07:00 PM CET / 02:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="cf2bd390097865c57f5c79828cb0aced">
+    <title>DEL : Straubing Tigers vs Eisbaren Berlin</title>
+    <desc>11:00 AM PT / 02:00 PM ET / 06:00 PM GMT
+07:00 PM CET / 02:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="226beac0b89fd88e714db07b7901c605">
+    <title>DEL : Red Bull München vs Adler Mannheim</title>
+    <desc>11:30 AM PT / 02:30 PM ET / 06:30 PM GMT
+07:30 PM CET / 02:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="5a94c8be3ca4b0be44e06aa86519fb30">
+    <title>Swiss - NLA - Playoff : Kloten vs ZSC Lions</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="b4c217e61417d3f1d03b21b71a668722">
+    <title>Swiss - NLA - Playout : Lugano vs Ajoie</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="73ceeb8457a297ca0347e1171de5072f">
+    <title>Swiss - NLA - Playoff : SC Langenau Tigers vs Lausanne</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="dec9eb4862502485c72529c5122982cf">
+    <title>PWHL : New York Sirens vs Toronto</title>
+    <desc>04:00 PM PT / 07:00 PM ET / 11:00 PM GMT
+12:00 AM CET / 07:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="d9307bd1da762126cdcbd9767092c3f2">
+    <title>AHL Hockey : Milwaukee Admirals vs Lehigh Valley Phantoms</title>
+    <desc>04:00 PM PT / 07:00 PM ET / 11:00 PM GMT
+12:00 AM CET / 07:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="ecb674adbdc163e3a6e72ba213171974">
+    <title>NHL : Colorado Avalanche vs Toronto Maple Leafs</title>
+    <desc>04:00 PM PT / 07:00 PM ET / 11:00 PM GMT
+12:00 AM CET / 07:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="3e131fb66bde0cdbfe0e9961409aad5d">
+    <title>NHL : Seattle Kraken vs Minnesota Wild</title>
+    <desc>06:30 PM PT / 09:30 PM ET / 01:30 AM GMT
+02:30 AM CET / 09:30 AM PHT
+Date: 03/18/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="e5ad39969f2d286bee081f016f8104e5">
+    <title>Russia Superliga : Lokomotiv Novosibirsk vs Zenit St. Petersburg</title>
+    <desc>05:00 AM PT / 08:00 AM ET / 12:00 PM GMT
+01:00 PM CET / 08:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="9f517fbe823f97ec4d3179d1f725afb9">
+    <title>CEV Cup Hague : Ziraat Bankasi Ankara vs. Trentino Volley</title>
+    <desc>09:00 AM PT / 12:00 PM ET / 04:00 PM GMT
+05:00 PM CET / 12:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="fe1cd58670d72bc8167eb966be0c8a54">
+    <title>Champions League : Projekt Warsaw vs. Halkbank Ankara</title>
+    <desc>10:00 AM PT / 01:00 PM ET / 05:00 PM GMT
+06:00 PM CET / 01:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="b4cc164cfc776d9c843d40f1495f6a52">
+    <title>CEV Cup Hague : Tours Volley-Ball vs. Resovia Rzeszow</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="40294fd9abca016e6fabb177e3ace2f7">
+    <title>Champions League : Jastrzebski Wegiel vs. Olympiakos</title>
+    <desc>12:30 PM PT / 03:30 PM ET / 07:30 PM GMT
+08:30 PM CET / 03:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="f159087e2a28b7689fc70c85760596f9">
+    <title>Challenge Cup : Volley Civitanova vs. Lkps Lublin</title>
+    <desc>12:30 PM PT / 03:30 PM ET / 07:30 PM GMT
+08:30 PM CET / 03:30 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="24a3f37dd82db553f6b3e9923b609c04">
+    <title>SuperLiga : Goias vs Sada Cruzeiro</title>
+    <desc>04:00 PM PT / 07:00 PM ET / 11:00 PM GMT
+12:00 AM CET / 07:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="e7e9d74b879bfaa55b6e300d163a1ad3">
+    <title>European Open Classic Powerlifting Championships Session 2 | Malaga</title>
+    <desc>10:00 AM PT / 01:00 PM ET / 05:00 PM GMT
+06:00 PM CET / 01:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="cdca1397ac20f6565290aa0cde1c91e8">
+    <title>LEN Champions League, Quarterfinals : RN Savona vs. CN Barceloneta</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="1e375b3f71fed241163b6c30f6bd66bf">
+    <title>LEN Champions League, Quarterfinals : CSM Oradea vs. Ferencvarosi TC Waterpolo</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="5d34b3ef37891dc27cbd9137628b885d">
+    <title>Women's Curling World Championship : Italy vs Sweden</title>
+    <desc>03:00 AM PT / 06:00 AM ET / 10:00 AM GMT
+11:00 AM CET / 06:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="700dd46f11bf0c06c11d0e4d701fa216">
+    <title>Women | Round Robin | World Championship : Japan vs Scotland</title>
+    <desc>03:00 AM PT / 06:00 AM ET / 10:00 AM GMT
+11:00 AM CET / 06:00 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="64e927e425cbfcfe45047feae31e3a40">
+    <title>World Championships Engadin | Men's and Women's Moguls</title>
+    <desc>03:30 AM PT / 06:30 AM ET / 10:30 AM GMT
+11:30 AM CET / 06:30 PM PHT
+Date: 03/19/2025</desc>
+  </programme>
+  <programme start="20250319152113 +0000" stop="20250321152113 +0000" channel="edc37d9ee835e1ff72504b4a11c73e8b">
+    <title>World Cup | Tallinn Freestyle Sprint | Men's and Women's</title>
+    <desc>10:00 AM PT / 01:00 PM ET / 05:00 PM GMT
+06:00 PM CET / 01:00 AM PHT
+Date: 03/19/2025</desc>
+  </programme>
+</tv>
