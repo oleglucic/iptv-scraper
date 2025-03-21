@@ -200,3 +200,4 @@ blastPH.MTV.Live
 blastPH.MTV.90s
 Amazon.Entertainment.KoreanBlockbusters
 Amazon.Sports.HBOBoxing
+Amazon.Entertainment.HBOWest
