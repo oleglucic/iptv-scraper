@@ -76,6 +76,7 @@ def filter_and_build_epg(urls):
 
 
 urls = [
+    "https://raw.githubusercontent.com/pigzillaaaaa/amazon-epg/refs/heads/main/amazon-epg.xml",
     "https://raw.githubusercontent.com/pigzillaaaaa/blast-epg/refs/heads/main/blast-epg.xml",
     "http://m3u4u.com/xml/x79znkdzz3h49xrwygk2",
     "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
