@@ -28,7 +28,7 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install curl_cffi httpx pytz python-dateutil
+        run: pip install curl_cffi httpx pytz python-dateutil beautifulsoup4
 
       - name: Download and Run Python Script
         run: |
