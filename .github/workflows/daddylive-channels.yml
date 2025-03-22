@@ -7,6 +7,7 @@ on:
 env:
   m_filename: daddylive-channels.m3u8
   t_filename: daddylive-channels-tivimate.m3u8
+  k_filename: daddylive-channels-kodi.m3u8
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
@@ -37,7 +38,7 @@ jobs:
 
       - name: Log the downloaded M3U8 file details
         run: |
-          for file in "${{ env.m_filename }}" "${{ env.t_filename }}"; do
+          for file in "${{ env.m_filename }}" "${{ env.t_filename }}" "${{ env.k_filename }}"; do
             if [ -f "$file" ]; then
               echo "$file downloaded successfully."
               ls -lh "$file"
