@@ -25,13 +25,13 @@
 
 #### Windows
 - **[IPTVNator](https://github.com/4gray/iptvnator/releases/tag/v0.16.0)**  
-- **[IPTVNator with DRM Playback Support](https://github.com/pigzillaaaaa/iptvnator-electron/releases/tag/v0.16.4)**  
+- **[IPTVNator with DRM Playback Support](https://github.com/pigzillaaaaa/iptvnator-electron/releases/tag/v0.16.5)**  
 - **Use an Emulator to Run Android Apps**: [WSABuilds](https://github.com/MustardChef/WSABuilds)  
 
 #### Linux
 - **[Yuki-IPTV](https://codeberg.org/liya/yuki-iptv)**  
 - **[IPTVNator](https://github.com/4gray/iptvnator/releases/tag/v0.16.0)**  
-- **[IPTVNator with DRM Playback Support](https://github.com/pigzillaaaaa/iptvnator-electron/releases/tag/v0.16.4)**  
+- **[IPTVNator with DRM Playback Support](https://github.com/pigzillaaaaa/iptvnator-electron/releases/tag/v0.16.5)**  
 
 
 
