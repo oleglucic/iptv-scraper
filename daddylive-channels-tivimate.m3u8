@@ -390,9 +390,6 @@ https://windnew.koskoros.ru/wind/premium916/mono.m3u8|Referer=https://gamerushpl
 #EXTINF:-1 tvg-id="Cytavision.Sports7.HD.cy" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cytavision-sports.png" group-title="CYPRUS",Cytavision Sports 7 Cyprus
 https://windnew.koskoros.ru/wind/premium917/mono.m3u8|Referer=https://gamerushplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://gamerushplay.cfd
 
-#EXTINF:-1 tvg-id="DAZN.1.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dazn-1.png" group-title="GERMANY",DAZN 1 Bar DE
-https://ddy6new.koskoros.ru/ddy6/premium426/mono.m3u8|Referer=https://gamerushplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://gamerushplay.cfd
-
 #EXTINF:-1 tvg-id="DAZN.1.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dazn-1.png" group-title="SPAIN",DAZN 1 Spain
 https://windnew.koskoros.ru/wind/premium445/mono.m3u8|Referer=https://gamerushplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://gamerushplay.cfd
 
@@ -888,9 +885,6 @@ https://nfsnew.koskoros.ru/nfs/premium829/mono.m3u8|Referer=https://gamerushplay
 #EXTINF:-1 tvg-id="MavTV.USA.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/mavtv-usa.png" group-title="UNITED STATES",MAVTV USA
 https://zekonew.koskoros.ru/zeko/premium646/mono.m3u8|Referer=https://gamerushplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://gamerushplay.cfd
 
-#EXTINF:-1 tvg-id="MDR.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/mdr-de.png" group-title="GERMANY",MDR DE
-https://ddy6new.koskoros.ru/ddy6/premium733/mono.m3u8|Referer=https://gamerushplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://gamerushplay.cfd
-
 #EXTINF:-1 tvg-id="Me.TV.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/metv-usa.png" group-title="UNITED STATES",METV USA
 https://ddy6new.koskoros.ru/ddy6/premium662/mono.m3u8|Referer=https://gamerushplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://gamerushplay.cfd
 
@@ -950,9 +944,6 @@ https://ddy6new.koskoros.ru/ddy6/premium474/mono.m3u8|Referer=https://gamerushpl
 
 #EXTINF:-1 tvg-id="MAXSport4(src01).bg" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/max-sport-4-bulgaria.png" group-title="BULGARIA",Max Sport 4 Bulgaria
 https://windnew.koskoros.ru/wind/premium475/mono.m3u8|Referer=https://gamerushplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://gamerushplay.cfd
-
-#EXTINF:-1 tvg-id="Monumental.Sports.Network.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/monumental-sports-network.png" group-title="UNITED STATES",Monumental Sports Network
-https://nfsnew.koskoros.ru/nfs/premium924/mono.m3u8|Referer=https://gamerushplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://gamerushplay.cfd
 
 #EXTINF:-1 tvg-id="Motor.Trend.HD.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/motor-trend.png" group-title="UNITED STATES",Motor Trend
 https://dokko1new.koskoros.ru/dokko1/premium661/mono.m3u8|Referer=https://gamerushplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://gamerushplay.cfd
@@ -1303,7 +1294,7 @@ https://zekonew.koskoros.ru/zeko/premium373/mono.m3u8|Referer=https://gamerushpl
 https://zekonew.koskoros.ru/zeko/premium294/mono.m3u8|Referer=https://gamerushplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://gamerushplay.cfd
 
 #EXTINF:-1 tvg-id="Showtime.2.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/showtime-2-usa.png" group-title="UNITED STATES",Showtime 2 USA (SHO2) USA
-https://zekonew.koskoros.ru/zeko/premium792/mono.m3u8|Referer=https://gamerushplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://gamerushplay.cfd
+https://windnew.koskoros.ru/wind/premium792/mono.m3u8|Referer=https://gamerushplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://gamerushplay.cfd
 
 #EXTINF:-1 tvg-id="Showtime.Extreme.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/showtime-extreme-usa.png" group-title="UNITED STATES",Showtime Extreme USA
 https://nfsnew.koskoros.ru/nfs/premium794/mono.m3u8|Referer=https://gamerushplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://gamerushplay.cfd
@@ -1707,9 +1698,6 @@ https://ddy6new.koskoros.ru/ddy6/premium415/mono.m3u8|Referer=https://gamerushpl
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-maximo-1.png" group-title="SOUTH AFRICA",SuperSport MaXimo 1
 https://dokko1new.koskoros.ru/dokko1/premium572/mono.m3u8|Referer=https://gamerushplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://gamerushplay.cfd
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-psl.png" group-title="SOUTH AFRICA",SuperSport PSL
-https://zekonew.koskoros.ru/zeko/premium413/mono.m3u8|Referer=https://gamerushplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://gamerushplay.cfd
-
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-premier-league.png" group-title="SOUTH AFRICA",SuperSport Premier league
 https://ddy6new.koskoros.ru/ddy6/premium414/mono.m3u8|Referer=https://gamerushplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://gamerushplay.cfd
 
@@ -1882,7 +1870,7 @@ https://ddy6new.koskoros.ru/ddy6/premium40/mono.m3u8|Referer=https://gamerushpla
 https://zekonew.koskoros.ru/zeko/premium700/mono.m3u8|Referer=https://gamerushplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://gamerushplay.cfd
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/Tennisplus.png" group-title="FRANCE",Tennis+ 15
-https://top2new.koskoros.ru/top2/premium714/mono.m3u8|Referer=https://gamerushplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://gamerushplay.cfd
+https://wikinew.koskoros.ru/wiki/premium714/mono.m3u8|Referer=https://gamerushplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://gamerushplay.cfd
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/Tennisplus.png" group-title="FRANCE",Tennis+ 2
 https://zekonew.koskoros.ru/zeko/premium701/mono.m3u8|Referer=https://gamerushplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://gamerushplay.cfd
